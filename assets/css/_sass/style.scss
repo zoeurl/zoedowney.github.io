@@ -30,13 +30,10 @@ body {
 
 a {
     color: $brand-color;
-    text-decoration: none;
     &:hover{
      color: $text-color;
     }
 }
-
-
 
 p a {
     color: $text-color;
@@ -191,11 +188,6 @@ blockquote {
     padding: 1.5em;
     list-style: decimal;
     display: inline-block;
-}
-
-/* Theme switch button */
-.theme {
-    cursor: pointer;
 }
 
 /* Footer */
