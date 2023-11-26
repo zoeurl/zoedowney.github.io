@@ -3,7 +3,7 @@ layout: post
 title: "Licorice Pizza"
 director: "Paul Thomas Anderson"
 year: 2021
-image: /assets/images/licorice-pizza.png
+image: /assets/images/licorice-pizza.webp
 image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">MGM</a>
 image-alt-text: "A family of three are sat in a convertable car, with the top up. Two young boys look ahead, the mother who is driving, stares to the camera, breaking the fourth wall" 
 ---
