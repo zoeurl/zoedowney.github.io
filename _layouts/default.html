@@ -26,11 +26,8 @@
         </main>
 
         <footer>
-            <div class="links">
-                <a href="{{site.baseurl}}/about/">About me</a>
-            </div>
             <p class="copy">
-                <small>Copyright © {{ site.time | date: '%Y' }} {{site.title}}. All rights reserved.</small>
+                <small>Copyright © {{ site.time | date: '%Y' }} <a href="{{site.baseurl}}/">{{site.title}}</a>. All rights reserved.</small>
             </p>
         </footer>
         {% include analytics.html %}

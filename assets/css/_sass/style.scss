@@ -30,33 +30,7 @@ body {
 
 a {
     color: $brand-color;
-    &:hover{
-     color: $text-color;
-    }
 }
-
-p a {
-    color: $text-color;
-    text-decoration: none;
-    background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-    background: -moz-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-    background: linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
-
-    -webkit-box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
-    box-shadow: inset 0 0 0 0 lighten($brand-color, 10%);
-
-
-    -webkit-transition: box-shadow ease 1s;
-	-moz-transition: box-shadow ease 1s;
-	transition: box-shadow ease 1s;
-    &:hover {
-        color: lighten($background-color, 50%);
-        -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
-        box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
-
-    }
-}
-
 
 figure {
     margin: 0;
@@ -192,19 +166,10 @@ blockquote {
 
 /* Footer */
 footer {
-    position: relative;
-    top: 2em;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
 }
 
-/* Footer navigation links */
-.links a {
-    margin-right: 1em;
-}
-
-/* Footer copyrights */
-.copy {
-    color: #aaa;
-}
 
 /* Horizontal Divider */
 .divider {
