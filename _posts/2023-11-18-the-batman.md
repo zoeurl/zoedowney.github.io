@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Batman"
-subtitle: "Mat Reeves"
+subtitle: "Dir. Matt Reeves"
 ---
 
 ‘Hidden in the chaos is the element’ is a signature line from the opening gambit of Matt Reeves’ _The Batman_ (2022). It lays down the tone of the murky, crime-solving caper to follow.
