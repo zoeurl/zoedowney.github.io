@@ -4,14 +4,18 @@ layout: default
 
 <h1 class="post-headline">{{page.title}}</h1>
 
-{% if page.subtitle %}
-<h2 class="post-subtitle">{{page.subtitle}}</h2>
+{% if page.director %}
+<h2 class="post-subtitle">
+	dir.
+	{{page.director}}
+	{% if page.year %}[{{page.year}}]{% endif %}
+</h2>
 {% endif %}
 
 {{content}}
 
 <footer>
-<p class="meta"><small>This aricle by <a href="{{site.baseurl}}/">{{site.title}}</a> was first published on {{page.date | date: '%B %d, %Y'}}, and is
-copyright © {{ site.time | date: '%Y' }} {{site.title}}. All rights reserved.</small>
+<p class="meta"><small>This article was first published {{page.date | date: '%B %d, %Y'}}.
+Copyright © {{ site.time | date: '%Y' }} <a href="{{site.baseurl}}/">{{site.title}}</a>. All rights reserved.</small>
 </p>
 </footer>
