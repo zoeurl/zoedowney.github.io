@@ -22,7 +22,9 @@ layout: default
 {{content}}
 
 <footer>
-<p class="meta"><small>This article was first published {{page.date | date: '%B %d, %Y'}}.
+<p class="meta"><small>This article was first published on {{page.date | date: '%-d %B %Y'}}
+{% if page.medium-url %}
+<a href="{{page.medium-url}}">on Medium</a>{% endif %}.
 Copyright © {{ site.time | date: '%Y' }} <a href="{{site.baseurl}}/">{{site.title}}</a>. All rights reserved.</small>
 </p>
 </footer>
