@@ -79,11 +79,6 @@ blockquote {
     }
 
 
-/* Article list in index/home page */
-.article-list {
-    margin: 1em 0;
-}
-
 
 /* Add video class for iframes to make them responsive */
 .video {
@@ -121,6 +116,18 @@ footer {
     margin: 2em 0;
     padding-bottom: 1em;
 }
+
+ul {
+	list-style-type: "— ";
+	margin: 0;
+	padding-left: 1.5em;
+}
+
+li {
+	margin: 0;
+	padding-left: 0;
+}
+
 
 
 /* Horizontal Divider */
