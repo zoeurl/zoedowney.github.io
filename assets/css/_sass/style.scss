@@ -36,8 +36,15 @@ figure {
     margin: 0;
 }
 
+figcaption {
+   text-align: right;
+   color: $grey-color;
+   font-size: smaller;
+}
+
 img {
     max-width: 100%;
+    width: auto;
 }
 
 pre,
