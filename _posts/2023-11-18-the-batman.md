@@ -6,7 +6,6 @@ year: 2022
 image: /assets/images/the-batman.webp
 image-credit: <a href="https://www.latimes.com/entertainment-arts/movies/story/2022-03-04/batman-villains-ranked-catwoman-riddler-penguin">Warner Bros. &amp; DC Comics</a>
 image-alt-text: "Zoë Kravitz as Selina Kyle and Robert Pattinson as Batman stare into each other's eyes. Batman holds Batgirl by the top of her arm"
-medium-url: https://medium.com/@zoedowney/a-year-at-the-movies-day-12-the-batman-8310f946eef0
 ---
 
 ‘Hidden in the chaos is the element’ is a signature line from the opening gambit of Matt Reeves’ _The Batman_ (2022). It lays down the tone of the murky, crime-solving caper to follow.

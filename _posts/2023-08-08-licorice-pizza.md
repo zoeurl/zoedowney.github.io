@@ -6,7 +6,6 @@ year: 2021
 image: /assets/images/licorice-pizza.webp
 image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">MGM</a>
 image-alt-text: "A family of three are sat in a convertable car, with the top up. Two young boys look ahead, the mother who is driving, stares to the camera, breaking the fourth wall" 
-medium-url: https://medium.com/@zoedowney/a-year-at-the-movies-day-9-licorice-pizza-f7211be19c06
 ---
 
 Few films carry the label ‘laugh-out-loud’ and stand by that pledge. _Licorice Pizza_ is, verifiably, a riot. I may have seen it 17 times, but an invitation to London’s [PCC](https://www.instagram.com/p/CryUFoQIWmW/) is an offer that can’t be refused — especially for a viewing in 35mm.

@@ -6,7 +6,6 @@ year: 2022
 image: /assets/images/bones-and-all.webp
 image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-and-all-review/">Yannis Drakoulidis / Metro Goldwyn Mayer Pictures</a>
 image-alt-text: "A young man and women sitting down outside under a bright, blue sky"
-medium-url: https://medium.com/@zoedowney/a-year-at-the-movies-day-8-7871e2adc9a0
 ---
 
 Harsh scares aren’t easily meshed with a love story’s softer tensions. At the movies with _Bones and All_, there was terror. But with the credits rolled tears.
