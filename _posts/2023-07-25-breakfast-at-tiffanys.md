@@ -8,7 +8,7 @@ image-credit: <a href="https://www.wikiwand.com/it/Audrey_Hepburn#Media/File:Aud
 image-alt-text: "Audrey Hepburn as Holly Golightly, looks back over her shoulder towards us. She is wearing orange pyjamams and purple earrings, and a mischievous smile on her face"
 ---
 
-There’s a surreality to watching an old movie. Witnessed is a segment of life shelved away from the stream of time. _Breakfast at Tiffany’s_ is a picture tethered to a specific stylish moment. It’s a well-worn admission but I’m a sucker for 60s steez — especially in a New York setting. I rest my phone on the nightstand and press _play_; Audrey Hepburn’s familiar, ‘[funny](https://youtu.be/GSq3lDecLqg)’ face appears.
+There’s a surreality to watching an old movie. Witnessed is a segment of life shelved away from the stream of time. _Breakfast at Tiffany’s_ is a picture tethered to a specific stylish moment. It’s a well-worn admission but I’m a sucker for 60s steez — especially in a New York setting.
 
 Writer Paul Varjak (George Peppard) meets socialite Holly ‘Golightly’ when he moves into her building in the Upper East Side. Paul asks to use the telephone; she obliges but realises she’s late for an engagement. Holly pins her hair and dabs eyelashes while sending Paul on a quest for missing ‘alligator’ shoes. He gently detangles the mystery of Holly’s morning rush like a daytime TV detective unpacking a murder. Mid-chaos her cat — ‘Cat’ — jumps onto his shoulders. She fondly nicknames her new neighbour ‘Fred’ after her similar-looking brother. It’s a charming interaction that waters the seed of their soon-to-be friendship.
 
