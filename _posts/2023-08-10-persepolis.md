@@ -8,7 +8,7 @@ image-credit: <a href="https://twitter.com/dazedbycinema/status/1274773809657081
 image-alt-text: "Marjane sits in bed, smoking, her head is bowed and her eyes closed"
 ---
 
-It was a different time that I grew up in; when any graphic novel — or illustrated book — was assumed to be a comic for children. Thus in 2007 I checked out of my middle school library trouble-free with _Persepolis_, the biography of French-Iranian artist Marjane Satrapi, in my hands. I was drawn to the small, serious-looking girl penned with minimalist black lines peering from the cover’s embroidered edges. From my insular English countryside town, I now had cognisance of a world beyond Europe.
+When I was growing up in the late 90s to early 00s, a heavily illustrated book — or graphic novel — was assumed to be a comic for children. Thus in 2007 I checked out of my middle school library trouble-free with _Persepolis_, the biography of French-Iranian artist Marjane Satrapi. I was drawn to the small, serious-looking girl penned with minimalist black lines peering from the cover’s embroidered edges. From my insular English countryside town, I now had cognisance of a world beyond Europe.
 
 An Iranian-French collaboration between Satrapi and illustrator Vincent Paronnaud, the animated _Persepolis_ became universally celebrated for tying together the personal and political. Appreciated was its comical aspect, Satrapi’s language of storytelling and her generosity in offering deep parts of her experience to a Western audience who, until its release, may have misunderstood the true resilience of Iranian women (and people) in complex times. I had neither read nor seen anything like it.
 
