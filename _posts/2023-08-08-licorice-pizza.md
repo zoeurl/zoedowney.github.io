@@ -5,7 +5,7 @@ director: "Paul Thomas Anderson"
 year: 2021
 image: /assets/images/licorice-pizza.webp
 image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">MGM</a>
-image-alt-text: "Alana, Gary and his younger brotherare sat in a convertable car, with the top up. Two boys look ahead and Alana, who is driving, stares to the camera breaking the fourth wall" 
+image-alt-text: "Alana, Gary and his younger brotherare sat in a convertable car. The two boys look ahead and Alana, who is driving, stares to the camera breaking the fourth wall" 
 ---
 
 Few films carry the label ‘laugh-out-loud’ and stand by that pledge. _Licorice Pizza_ is, verifiably, a riot. I may have seen it 17 times but an invitation to London’s [Prince Charles Cinema](https://www.instagram.com/p/CryUFoQIWmW/) is an offer that cannot be refused — especially for a viewing in 35mm.
