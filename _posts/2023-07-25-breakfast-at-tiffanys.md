@@ -5,7 +5,7 @@ director: Blake Edwards
 year: 1961
 image: /assets/images/breakfast-at-tiffanys.webp
 image-credit: <a href="https://www.wikiwand.com/it/Audrey_Hepburn#Media/File:Audrey_Hepburn_a_Breakfast_at_Tiffany's.jpg">Paramount</a>
-image-alt-text: "Audrey Hepburn as Holly Golightly, looks back over her shoulder towards us. She is wearing orange pyjamams and purple earrings, and a mischievous smile on her face"
+image-alt-text: "Audrey Hepburn, as Holly Golightly, looks back over her shoulder towards us. She is wearing orange pyjamams and purple earrings"
 ---
 
 There is a surreality to watching an older, classic movie. Witnessed is a segment of life shelved away from the stream of time. _Breakfast at Tiffany’s_ is a picture tethered to a specific stylish moment. It’s a well-worn admission but I’m a sucker for 60s steez — especially in a New York setting.
