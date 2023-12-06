@@ -4,7 +4,7 @@ title: "Bones and All"
 director: Luca Guadagnino
 year: 2022
 image: /assets/images/bones-and-all.webp
-image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-and-all-review/">Universal</a>
+image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-and-all-review/">Metro-Goldwyn-Mayer</a>
 image-alt-text: "From left to right: Timothée Chalamet as Lee and Taylor Russell as Maren sitting in a vast field under a bright, blue sky"
 ---
 
