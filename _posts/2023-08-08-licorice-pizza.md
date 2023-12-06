@@ -8,7 +8,7 @@ image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-li
 image-alt-text: "A family of three are sat in a convertable car, with the top up. Two young boys look ahead, the mother who is driving, stares to the camera, breaking the fourth wall" 
 ---
 
-Few films carry the label ‘laugh-out-loud’ and stand by that pledge. _Licorice Pizza_ is, verifiably, a riot. I may have seen it 17 times, but an invitation to London’s [PCC](https://www.instagram.com/p/CryUFoQIWmW/) is an offer that can’t be refused — especially for a viewing in 35mm.
+Few films carry the label ‘laugh-out-loud’ and stand by that pledge. _Licorice Pizza_ is, verifiably, a riot. I may have seen it 17 times but an invitation to London’s [PCC](https://www.instagram.com/p/CryUFoQIWmW/) is an offer that can’t be refused — especially for a viewing in 35mm.
 
 _[Licorice Pizza](https://en.wikipedia.org/wiki/Licorice_Pizza_%28store%29#:~:text=Licorice%20Pizza%20was%20a%20Los,the%20shape%20of%20a%20pizza.)_ is steeped in the orange-tinted nostalgia of 1970s Los Angeles. It stars Alana Haim of [Haim](https://www.youtube.com/watch?v=ZjuA_o6Jzyo&ab_channel=HaimVEVO) (as Alana Kane), Cooper Hoffman (Gary Valentine) and his riff-raff group of friends. The narrative is a bunch of capers strung together that revolve around the relationship between Gary and Alana. Oh, and there’s a 10 year age gap between them: 15 and 25 respectively.
 
