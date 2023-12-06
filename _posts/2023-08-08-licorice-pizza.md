@@ -4,7 +4,7 @@ title: "Licorice Pizza"
 director: "Paul Thomas Anderson"
 year: 2021
 image: /assets/images/licorice-pizza.webp
-image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">MGM</a>
+image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">Universal</a>
 image-alt-text: "Alana (Alana Haim), Gary (Cooper Hoffman), and his younger brother are sat in a convertable car. The two boys look ahead and Alana, who is driving, stares to the camera breaking the fourth wall"
 ---
 
