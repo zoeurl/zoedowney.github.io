@@ -5,7 +5,7 @@ director: Luca Guadagnino
 year: 2022
 image: /assets/images/bones-and-all.webp
 image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-and-all-review/">Yannis Drakoulidis / Metro Goldwyn Mayer Pictures</a>
-image-alt-text: "From left to right: Lee and Maren sitting in a vast field under a bright, blue sky"
+image-alt-text: "From left to right: Timothée Chalamet as Lee and Taylor Russell as Maren sitting in a vast field under a bright, blue sky"
 ---
 
 Harsh scares are not easily meshed with the softer tensions of a love story. At the movies with _Bones and All_, there was terror; but with the credits rolled tears.
