@@ -8,7 +8,7 @@ image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-an
 image-alt-text: "From left to right: Lee and Maren sitting in a vast field under a bright, blue sky"
 ---
 
-Harsh scares are not easily meshed with the softer tensions of a love story. At the movies with _Bones and All_, there was terror. But with the credits rolled tears.
+Harsh scares are not easily meshed with the softer tensions of a love story. At the movies with _Bones and All_, there was terror; but with the credits rolled tears.
 
 I had spent two or so hours unsettled — but drawn in — by the narrative of bloodthirsty teens on the run in 80s America. [Insert [Fine Young Cannibals](https://en.wikipedia.org/wiki/The_Raw_%26_the_Cooked_%28album%29) one-liner here.] Director Luca Guadagnino rarely misses a beat to tug at heartstrings. But, in a movie about flesh ‘eaters’, I had expected the atmosphere to align with his 2018 reimagining of _Suspiria_ over _Call Me By Your Name_ — despite the Timothée Chalamet appearance. In the Venn diagram of Guadagnino screenplays, _Bones and All_ feels like an odd-couple marriage of the two.
 
