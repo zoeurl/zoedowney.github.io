@@ -33,7 +33,7 @@ Wayne is not the only nocturnal animal making night moves. In this timely vision
 
 Following the trajectory of the American crime story, _The Batman_ maintains a steady descent into violence and obscurity; puzzles (and riddles) that divert mystery from clarity. The chaos deepens once Zoë Kravitz’s Selina Kyle — Catwoman in all but name — hits the (club) scene. Her mob den cocktail waitress moonlighting as notorious feline night burglar is the sleekest characterisation yet. Armed with acrobatics and catchphrases, Kravitz’s is the most electric performance offered: Lives? ‘Don’t worry, honey. I got nine of ’em.’
 
-_The Batman_’s neatest trick, in detective story fashion, is confining its villain to plot corners until the final act. In filmmaking, a ‘show-and-not-tell’ restraint should be applauded. 
+_The Batman’s_ neatest trick, in detective story fashion, is confining its villain to plot corners until the final act. In filmmaking, a ‘show-and-not-tell’ restraint should be applauded. 
 Nolan reveals his Joker in the opening sequence of _The Dark Knight_ — a bad guy operating in plain sight. In _The Batman_,
  the threat lies in a villainous presence pulling strings from behind the scenes.
  Dano’s skill lies in the steady unravelling of his Riddler; a demented, bespectacled
