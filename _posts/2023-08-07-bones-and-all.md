@@ -14,7 +14,7 @@ I had spent two or so hours unsettled — but drawn in — by the narrat
 
 Maren (Taylor Russell) lives in Maryland with her father. A school friend invites her to a sleepover — her dad won’t allow it. Maren sneaks out after dark. The girls lie under a table and paint nails; the camera looks through glass but the pane creates separation. Maren whispers with another girl and between them is a closeness. It seems like a kiss might happen — it _doesn’t_.
 
-A blood-soaked Maren runs home and her father tells her to pack in three minutes. Stealth indicates that this is routine. Maren wakes up to find a birth certificate, cash, cassette and her father gone. The tape is his goodbye note: ‘First time was when you were three…’ — she shuts off the player.
+A blood-soaked Maren runs home and her father tells her she has three minutes to pack up her life. Stealth indicates that this is routine. Maren wakes up to find a birth certificate, cash, cassette and her father gone. The tape is his goodbye note: ‘First time was when you were three…’ — she shuts off the player.
 
 Maren takes the Greyhound to seek out her estranged mother. She runs into drifter Lee (Chalamet) in a supermarket isle whilst shoplifting. It’s a meet-cute in dark times. They eat pancakes in a diner and listen to [Kiss](https://www.youtube.com/watch?v=Gcj34XixuYg&ab_channel=KissVEVO) records. Lee shares Maren’s cannibalistic habit; they hit the road in search of identity and find home in each other.
 
