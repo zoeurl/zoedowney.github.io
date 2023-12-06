@@ -5,7 +5,7 @@ director: Luca Guadagnino
 year: 2022
 image: /assets/images/bones-and-all.webp
 image-credit: <a href="https://www.elle.com/culture/movies-tv/a42045495/bones-and-all-review/">Yannis Drakoulidis / Metro Goldwyn Mayer Pictures</a>
-image-alt-text: "A young man and women sitting down outside under a bright, blue sky"
+image-alt-text: "From left to right: Lee and Maren sitting down in a vast field under a bright, blue sky"
 ---
 
 Harsh scares aren’t easily meshed with a love story’s softer tensions. At the movies with _Bones and All_, there was terror. But with the credits rolled tears.
