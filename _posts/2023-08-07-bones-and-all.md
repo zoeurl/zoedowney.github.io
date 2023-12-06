@@ -24,7 +24,5 @@ I talked about American _desperados_ in my notes on [Badlands](https://medium.co
 
 At their journey’s peak, Marin and Lee decide to go west and learn how to be people. They get jobs, go to the movies, kiss in the twilight of their small apartment. Played against the beats of everyday life, the Reznor and Ross [soundtrack](https://www.youtube.com/watch?v=mqIaOl4N1M8&ab_channel=TrentReznor-Topic) transmutes mundanity into the meaningful. Sparse guitar leaves spaces where emotions may enter and breathe. Everything feels normal for a while, until it can no longer. Biting at their heels is unfinished business.
 
-Along with the final scene there was audience laughter and an audible ‘What the fuck?’ from the row behind. Talking in the cinema usually deserves jail time. Instead, these reactions felt like the backstreet Odeon equivalent of Cannes; where off-put viewers walk mid-screening. This is a film intended to evoke visceral, out-of-body responses. In the storm of opinions mine would not be clouded by disgust.
-
 _Bones_ manoeuvres between a love story and a horror in the manner of the American gothic: deftly and with grace. It undermines preconceptions of identifiable characters in the movies. There is a cognitive dissonance in empathising with those who cause pain; absorbed and commingling are shock waves of terror and grief. Here we learn how to sit with the discomfort of feeling both at once. Tears for fears is a tricky concept to pull off; _Bones and All_ combines tensions of horror and romance without sacrificing the effects of either one.
 
