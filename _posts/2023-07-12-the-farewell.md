@@ -14,7 +14,7 @@ Today I revisit _The Farewell_, a film that gained significance after my grandma
 
 A conversation is opened about cross-cultural methods of processing sadness and grief. The key concern is the ethical responsibility shouldered by loved ones. What may seem like the withholding of information is shown to be an act of care. It’s possible that Nai Nai is aware of her fate but plays along with the ruse. My grandma knew she was dying. But the nature of her illness meant she lost hold of that understanding. Sometimes not knowing is a blessing.
 
-Billi’s means of coping is by exorcising her emotions. Hence, family members discourage her from visiting her grandmother. They’re afraid her tears will uncover the lie. Billi and I are equally sentimental; each moment with Nai Nai feels like nostalgia in the making. She turns round from her seat at the dinner table, staring into the camera as if she’s looking at her granddaughter in a memory. We, the audience, stare back instead.
+Billi’s means of coping is by exorcising her emotions. Hence family members discourage her from visiting her grandmother. They’re afraid her tears will uncover the lie. Billi and I are equally sentimental; each moment with Nai Nai feels like nostalgia in the making. She turns round from her seat at the dinner table, staring into the camera as if she’s looking at her granddaughter in a memory. We, the audience, stare back instead.
 
 I'm emotionally hooked on the story but it’s funny, too. There's a joke Billi’s father tells about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a great unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
 
