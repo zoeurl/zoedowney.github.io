@@ -16,11 +16,10 @@ A conversation is opened about cross-cultural methods of processing sadness and 
 
 Billi’s means of coping is by exorcising her emotions. Hence, family members discourage her from visiting her grandmother. They’re afraid her tears will uncover the lie. Billi and I are equally sentimental; each moment with Nai Nai feels like nostalgia in the making. She turns round from her seat at the dinner table, staring into the camera as if she’s looking at her granddaughter in a memory. We, the audience, stare back instead.
 
-I’m emotionally hooked on the story but it’s funny, too. There’s a joke Billi’s father tells about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a great unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
+I'm emotionally hooked on the story but it’s funny, too. There's a joke Billi’s father tells about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a great unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
 
-Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. She expresses a sentiment I wish to share:
-
+Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. In it she expresses a pertinent sentiment:
 
 _I went down to the courtyard on the ground floor — where there is a rabbit and some interesting plants. At this time of year most of them are not doing much but, in the spring, they will all come back to life again._
 
-Those we love may eventually move out of reach — but memories resurface and become points of return. Farewell is never really _farewell_.
+Loved ones may eventually move out of reach — but memories resurface and become points of return. Farewell is never really _farewell_.
