@@ -22,4 +22,4 @@ Post-viewing I reread the letter my grandma wrote to me from the care home where
 
 _I went down to the courtyard on the ground floor — where there is a rabbit and some interesting plants. At this time of year most of them are not doing much but, in the spring, they will all come back to life again._
 
-Loved ones may eventually move out of reach — but memories resurface and become points of return. Farewell is never really _farewell_.
+Loved ones may eventually move out of physical reach — but memories resurface and become points of return. Farewell is never really _farewell_.
