@@ -5,7 +5,7 @@ director: "Anthony Minghella"
 year: 1999
 image: /assets/images/the-talented-mr-ripley.webp
 image-credit: <a href="https://mubi.com/en/gb/films/the-talented-mr-ripley">Miramax</a>
-image-alt-text: "From right to left: "Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces"
+image-alt-text: "From right to left: Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces"
 ---
 
 I place four droplets in the little plastic dish and wait barely a minute before the two familiar red lines appear. Self-isolation means comfort movies. I’ll aim to write today’s piece before the virus kicks in.
