@@ -8,9 +8,7 @@ image-credit: <a href="https://mubi.com/en/gb/films/the-talented-mr-ripley">Mira
 image-alt-text: "From right to left: Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces"
 ---
 
-I place four droplets in the little plastic dish and wait barely a minute before the two familiar red lines appear. Self-isolation means comfort movies. I’ll aim to write today’s piece before the virus kicks in.
-
-I scroll through my Amazon Prime library and put on _The Talented Mr. Ripley_ (Anthony Minghella). It’s crime and glamour set in a make-believe Italian town on the edge of the ocean. Patricia Highsmith wrote the 1955 novel on which it’s based, but the adaptation holds its own. In short: the story centres on small bluffs that unravel into bigger deceptions.
+I scroll through my Amazon Prime library and choose _The Talented Mr. Ripley_ (Anthony Minghella). It’s crime and glamour set in a make-believe Italian town on the edge of the ocean. Patricia Highsmith wrote the 1955 novel on which it’s based, but the adaptation holds its own. In short: the story centres on small bluffs that unravel into bigger deceptions.
 
 Tom Ripley (Matt Damon) has a knack for impressions. After a case of mistaken identity and class, he’s sent to Europe to retrieve an errant Princeton classmate — Dickie Greenleaf (Jude Law) — and return him to American soil. A minor detail is that Tom never attended university. It’s a testament to how far wearing someone else’s jacket to a party can get you.
 
