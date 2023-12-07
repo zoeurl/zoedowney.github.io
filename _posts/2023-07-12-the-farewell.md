@@ -18,7 +18,7 @@ Billi’s means of coping is by exorcising her emotions. Hence, family members d
 
 I'm emotionally hooked on the story but it’s funny, too. There's a joke Billi’s father tells about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a great unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
 
-Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. In it she expresses a pertinent sentiment:
+Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. She expresses a pertinent sentiment:
 
 _I went down to the courtyard on the ground floor — where there is a rabbit and some interesting plants. At this time of year most of them are not doing much but, in the spring, they will all come back to life again._
 
