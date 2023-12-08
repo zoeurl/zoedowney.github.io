@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Farewell
+title: The Farewell, 别告诉她
 director: "Lulu Wang"
 year: 2019
 image: /assets/images/the-farewell.webp
