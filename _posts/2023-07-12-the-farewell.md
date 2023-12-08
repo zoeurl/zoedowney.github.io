@@ -8,7 +8,7 @@ image-credit: <a href="https://www.theatlantic.com/entertainment/archive/2019/07
 image-alt-text: "Awkwafina as Billi against a backdrop of red city lights, her eyes gazing upwards"
 ---
 
-I was 25 when my maternal grandmother passed away. It was six months after I had seen Lulu Wang’s _The Farewell_ at London’s Barbican Centre. Her death was not an immediate shock; she was suffering from dementia and had been gradually fading away for years. After she went, a curtain fell between me and memories of her. What was once clear became out of focus. I kept hold of details, but vaguer aspects of her withdrew into a place to which I no longer had access.
+I was 25 when my maternal grandmother passed away. It was six months after I had seen Lulu Wang’s _The Farewell_ at London’s Barbican Centre. Her death was not an immediate shock; she was suffering from dementia and had been gradually fading away for years. After she went, a curtain fell between me and memories of her. I kept hold of details, but vaguer aspects of her withdrew into a place to which I no longer had access.
 
 Today I revisit _The Farewell_, a film that gained significance after my grandmother’s passing. Its story mirrors my experience: a grandmother dealing with terminal illness and her loved ones carrying the weight of it. The central character is Chinese-American writer Billi (Awkwafina), whose Nai Nai (Zhao Shu-zhen) doesn’t know she’s dying. Nai Nai receives a stage four lung cancer diagnosis that her family conceal from her. Medical results are falsified and CT scans find only ‘benign shadows.’ Billi — who has been brought up in America — wishes to tell her grandmother. Her Chinese-born family disagree. As Billi’s mother insists: ‘It’s not the cancer that kills [...] It’s the fear.’
 
