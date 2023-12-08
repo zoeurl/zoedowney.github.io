@@ -5,7 +5,7 @@ director: "Marjane Satrapi & Vincent Paronnaud"
 year: 2007
 image: /assets/images/persepolis.webp
 image-credit: <a href="https://twitter.com/dazedbycinema/status/1274773809657081856/photo/3">Diaphana</a>
-image-alt-text: "An animated Marjane sits on the floor in her apartment, smoking, her head is bowed and her eyes closed"
+image-alt-text: "An animated Marjane sits on the floor smoking in her apartment. Her head is bowed and her eyes closed"
 ---
 
 In a 2011 [article](https://www.theguardian.com/film/2011/jun/16/how-to-film-a-graphic-novel) for _The Guardian_, artist Marjane Satrapi wrote that ‘Animation and comics are false siblings.’ Indeed, a movie cannot supersede static drawings that tell a story on paper. Satrapi states that when reading a comic, the imagination has room to supplement spaces between each panel with movement. The flow of animation does not allow for such mental wandering. Satrapi also expressed that she prefers the term ‘comic’ to ‘graphic novel’. The comic strip is a non-conformist, defiant medium that shouts _anti-establishment_. It is a cross-pollination of art, politics and satire in an open and democratic format — literature meant to be picked up by anybody. This accessibility lends itself to her seminal work _Persepolis_; one that opens conversational doors to the Middle East that might have otherwise remained shut.
