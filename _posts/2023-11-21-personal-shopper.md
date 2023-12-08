@@ -5,7 +5,7 @@ director: "Olivier Assayas"
 year: 2016
 image: /assets/images/personal-shopper.webp
 image-credit: <a href="https://www.independent.co.uk/arts-entertainment/films/news/kristen-stewart-new-film-personal-shopper-booed-cannes-2016-review-a7033221.html">The Searchers</a>
-image-alt-text: "Kristen Stewart as Maureen is fastening a shimmering, silver-sequined dress. She is looking down with a vacant expression"
+image-alt-text: "Kristen Stewart as Maureen is in a hotel room fastening a shimmering, silver-sequined dress. She is looking down with a vacant expression"
 ---
 
 I’m a fan of media that abides by current technological habits. Maureen orders a Klint [book](https://www.amazon.co.uk/Hilma-Af-Klint-David-Lomas/dp/3775734899/ref=sr_1_1?crid=3EECI1DAZPFCG&keywords=hilma+af+klint+a+pioneer+of+abstraction&qid=1700658419&sprefix=hilma+af+klint+a+pioneer+of+abstraction%2Caps%2C99&sr=8-1) online and is pictured watching YouTube videos about the artist on the métro. (She tucks her earphone cables under her sweater so that the buds are not yanked out during transit.) A pivotal setpiece involves an exchange of back-and-forth texting with an unknown number that on paper might not intrigue, but in play works as an eerie force driving plot and tension. Another technological instance that later incriminates Maureen is a late-night googling session on her boss’ laptop. Corporeal or ethereal — everything that once was leaves a trace.
