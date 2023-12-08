@@ -8,9 +8,7 @@ image-credit: <a href="https://www.latimes.com/entertainment-arts/movies/story/2
 image-alt-text: "Zoë Kravitz as Selina Kyle and Robert Pattinson as Batman stare into each other's eyes. Batman holds Catwoman by her upper arm"
 ---
 
-‘Hidden in the chaos is the element’ is a signature line from the opening gambit of Matt Reeves’ _The Batman_ (2022). It lays down the tone of the murky, crime-solving caper to follow.
-
-I am not a devotee of fantasy or superhero lore. My filmic taste aligns with the darker side of myth and legend, and such crowd-pleasers rarely deliver on promises of true grit. This gloomiest and most [stylish](https://www.vogue.com.au/fashion/news/zoe-kravitz-batman-fashion/image-gallery/33d5a9c8e728739c5b74b92c29e962a6) entry into the DC canon paves an alternative path into the world of the Dark Knight that engages even with my cynical sensibilities.
+‘Hidden in the chaos is the element’ is a signature line from the opening gambit of Matt Reeves’ _The Batman_ (2022). It lays down the tone of the murky, crime-solving caper to follow. As a rule, I am not a devotee of fantasy or superhero lore. My filmic taste aligns with the darker side of myth and legend, and such crowd-pleasers rarely deliver on promises of true grit. This gloomiest and most [stylish](https://www.vogue.com.au/fashion/news/zoe-kravitz-batman-fashion/image-gallery/33d5a9c8e728739c5b74b92c29e962a6) entry into the DC canon paves an alternative path into the world of the Dark Knight that engages even with my cynical sensibilities.
 
 _The Batman_ is the first in a revised saga that at last resembles a comic book anti-hero turned cinematic. This version is unrecognisable compared to the [Adam West](https://www.youtube.com/watch?v=RsYA8Gr5NTY&ab_channel=RetromanIE) caricature seared into childhood memory. Sure, he’s still _Batman_: a caped crusader with fists poised to tackle the usual crowd of thugs and goons. However Reeves’ film, verging on horror, possesses a maturity and jet-black humour that is incomparable with earlier iterations.
 
