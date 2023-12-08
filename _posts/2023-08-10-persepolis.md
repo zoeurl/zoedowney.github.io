@@ -5,7 +5,7 @@ director: "Marjane Satrapi & Vincent Paronnaud"
 year: 2007
 image: /assets/images/persepolis.webp
 image-credit: <a href="https://twitter.com/dazedbycinema/status/1274773809657081856/photo/3">Diaphana</a>
-image-alt-text: "Marjane sits in bed, smoking, her head is bowed and her eyes closed"
+image-alt-text: "Marjane sits on the floor in her apartment, smoking, her head is bowed and her eyes closed"
 ---
 
 When I was growing up in the late 90s to mid 00s, a heavily illustrated book — or graphic novel — was assumed to be a comic for children. Thus in 2007 I checked out of my middle school library trouble-free with _Persepolis_, the biography of French-Iranian artist Marjane Satrapi. I was drawn to the small, serious-looking girl penned with minimalist black lines peering from the cover’s embroidered edges. From my insular English countryside town, I now had cognisance of a world beyond Europe.
