@@ -5,7 +5,7 @@ director: "The Haunting Legacies of J Robert Oppenheimer and Jiro Horikoshi"
 year: 
 image: /assets/images/the-wind-rises.jpeg
 image-credit: <a href="https://www.polygon.com/animation-cartoons/2020/5/30/21275291/the-wind-rises-studio-ghibli-hayao-miyazaki-hbo-max">Studio Ghibli</a>
-image-alt-text: "An animated young Jiro Horikoshi flying a fighter plane. He is pulling down his goggles with one hand"
+image-alt-text: "An animated young Jiro Horikoshi flying a fighter plane. He is pulling down his goggles over his eyes with one hand"
 ---
 
 _This article contains spoilers for Oppenheimer and The Wind Rises, 風立ちぬ._
