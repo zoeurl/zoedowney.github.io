@@ -2,6 +2,7 @@
 layout: post
 category: feature
 title: "The Ghost Behind the Machine"
+subtitle: "The Haunting Legacies of J. Robert Oppenheimer and Jiro Horikoshi"
 image: /assets/images/the-wind-rises.webp
 image-credit: <a href="https://m.imdb.com/title/tt2013293/mediaviewer/rm303290625/">Studio Ghibli</a>
 image-alt-text: "A hand holding a paper aeroplane, poised to throw it into the air"
