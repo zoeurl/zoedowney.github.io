@@ -4,12 +4,12 @@ layout: default
 
 <h1 class="post-headline">{{page.title}}</h1>
 
-{% if page.director %}
 <h2 class="post-subtitle">
+{%- if page.director %}
 	dir.
 	{{page.director}}{% if page.year %}, {{page.year}}{% endif %}
+{% endif -%}
 </h2>
-{% endif %}
 
 {% if page.image %}
 <figure>
