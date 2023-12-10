@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: "The Batman"
 director: "Matt Reeves"
 year: 2022

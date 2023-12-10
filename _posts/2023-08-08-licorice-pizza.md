@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: "Licorice Pizza"
 director: "Paul Thomas Anderson"
 year: 2021

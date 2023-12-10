@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: "Persepolis"
 director: "Marjane Satrapi & Vincent Paronnaud"
 year: 2007

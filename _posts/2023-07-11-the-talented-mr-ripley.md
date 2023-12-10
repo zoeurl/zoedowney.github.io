@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: The Talented Mr. Ripley
 director: "Anthony Minghella"
 year: 1999

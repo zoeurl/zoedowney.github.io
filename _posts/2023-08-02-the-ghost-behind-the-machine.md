@@ -1,5 +1,6 @@
 ---
 layout: post
+category: feature
 title: "The Ghost Behind the Machine"
 image: /assets/images/the-wind-rises.webp
 image-credit: <a href="https://m.imdb.com/title/tt2013293/mediaviewer/rm303290625/">Studio Ghibli</a>

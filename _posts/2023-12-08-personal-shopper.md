@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: "Personal Shopper"
 director: "Olivier Assayas"
 year: 2016

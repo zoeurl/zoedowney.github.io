@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: The Farewell 别告诉她
 director: "Lulu Wang"
 year: 2019

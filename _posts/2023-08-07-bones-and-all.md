@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: "Bones and All"
 director: Luca Guadagnino
 year: 2022

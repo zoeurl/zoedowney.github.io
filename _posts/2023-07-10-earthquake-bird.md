@@ -1,5 +1,6 @@
 ---
 layout: post
+category: review
 title: Earthquake Bird
 director: "Wash Westmoreland"
 year: 2019

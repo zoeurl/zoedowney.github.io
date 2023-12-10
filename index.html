@@ -10,12 +10,21 @@ hello, welcome to my creative portfolio.
 or contact me via <a href="mailto:{{site.email}}">email</a>.
 </p>
 
-<h2>film reviews</h2>
+<h2>reviews</h2>
 <div class="article-list">
   <ul class="lowercase">
-  {% for post in site.posts %}
+  {% for post in site.posts %}{% if post.category == "review" %}
   <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
-  {% endfor %}
+  {% endif %}{% endfor %}
+  </ul>
+</div>
+
+<h2>features</h2>
+<div class="article-list">
+  <ul class="lowercase">
+  {% for post in site.posts %}{% if post.category == "feature" %}
+  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endif %}{% endfor %}
   </ul>
 </div>
 
