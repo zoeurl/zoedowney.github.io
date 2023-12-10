@@ -67,12 +67,9 @@ code {
     }
 
 blockquote {
-    border-left: 2px solid $brand-color;
-    padding-left: 1em;
-    font-family: Georgia,Times,Times New Roman,serif;
-    font-size: 0.9*$base-font-size;
+    border-left: 8px solid $text-color;
     font-style: italic;
-    }
+}
 
 
 
