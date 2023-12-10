@@ -20,6 +20,6 @@ _The Farewell_ hits an emotional register but it's funny, too. There's a joke Bi
 
 Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. She expresses a pertinent sentiment:
 
-_I went down to the courtyard on the ground floor — where there is a rabbit and some interesting plants. At this time of year most of them are not doing much but, in the spring, they will all come back to life again._
+> I went down to the courtyard on the ground floor — where there is a rabbit and some interesting plants. At this time of year most of them are not doing much but, in the spring, they will all come back to life again.
 
 Loved ones may eventually move out of physical reach — but memories resurface and become emotional points of return. Farewell is never really _farewell_.
