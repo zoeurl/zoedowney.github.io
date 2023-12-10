@@ -32,8 +32,7 @@ These biopics unpack the lives of people whose works have legacies far greater a
 
 In 2011, Hayao Miyazaki agreed to a rare interview with [Cut Magazine](https://www.animationmagazine.net/2013/08/miyazaki-pic-continues-to-stir-auds-in-japan/). On seeking inspiration for _The Wind Rises_, he told them:
 
-
-    My wife and my staff would ask me, ‘Why make a story about a man who made weapons of war?’ And I thought they were right. But one day, I heard that Horikoshi had once murmured, ‘All I wanted to do was to make something beautiful.’ And then I knew I’d found my subject.
+> My wife and my staff would ask me, ‘Why make a story about a man who made weapons of war?’ And I thought they were right. But one day, I heard that Horikoshi had once murmured, ‘All I wanted to do was to make something beautiful.’ And then I knew I’d found my subject.
 
 Horikoshi and Oppenheimer — as figures of controversy — may be viewed more favourably through the lenses of filmmakers. The implication is that, with an awareness of decisions enacted by policy-makers, history will treat visionaries more kindly in retrospect. Through a director’s eyes, these may not be men who displace gods in service of their egos. To them, they might be victims of circumstance and timing.
 
