@@ -8,7 +8,7 @@ image-credit: <a href="https://m.imdb.com/title/tt2013293/mediaviewer/rm30329062
 image-alt-text: "A hand holding a paper aeroplane, poised to throw it into the air"
 ---
 
-_This article contains spoilers for Oppenheimer and The Wind Rises (風立ちぬ)._
+_This article contains spoilers for Oppenheimer and The Wind Rises_ (風立ちぬ).
 
 The animations of Studio Ghibli take a measured approach to human concerns in their storytelling. To director Hayao Miyazaki, people are not equipped to be the arbiters of moral or ethical judgement. This belief is accompanied by an anxiety surrounding technological advancement and its potential harm ,  ecologically and humanly-speaking. Despite this [pessimism](https://www.newyorker.com/books/page-turner/hayao-miyazakis-beautiful-broken-worlds), Ghibli’s environmental catalogue — _Princess Mononoke_ and _Nausicaä of the Valley of the Wind_— aligns with this sentiment under more hopeful terms. These movies refuse to disregard the human capacity for good. Rather, they imply that responsibility for powerful technology should be removed from incompetent or wrathful hands. Along these lines, _The Wind Rises_ (2013) empathises with the dilemma of a visionary; their pure intentions to exceed the limits of human creativity in a time when such breakthroughs would be repurposed for acts of destruction.
 
