@@ -9,7 +9,7 @@ image-credit: <a href="https://mubi.com/en/gb/films/the-talented-mr-ripley">Mira
 image-alt-text: "From right to left: Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces"
 ---
 
-_The Talented Mr. Ripley_ is crime and glamour set in a make-believe Italian town on the edge of the ocean. Patricia Highsmith wrote the 1955 novel from which Anthony Minghella takes inspiration, but the adaptation holds its own. In short: the story centres on small bluffs that unravel into bigger deceptions. 
+_The Talented Mr. Ripley_ is crime and glamour set in a make-believe Italian town on the edge of the ocean. Patricia Highsmith penned the 1955 novel from which Anthony Minghella takes inspiration, but the adaptation holds its own. In short: the story centres on small bluffs that unravel into bigger deceptions. 
 
 Tom Ripley (Matt Damon) has a knack for impressions. After a case of mistaken identity and class, he’s sent to Europe to retrieve an errant Princeton classmate — Dickie Greenleaf (Jude Law) — and return him to American soil. A minor detail is that Tom never attended university. It’s a testament to how far wearing someone else’s jacket to a party can take you.
 
