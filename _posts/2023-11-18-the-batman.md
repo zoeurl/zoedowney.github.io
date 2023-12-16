@@ -6,7 +6,7 @@ director: "Matt Reeves"
 year: 2022
 image: /assets/images/the-batman.webp
 image-credit: <a href="https://www.latimes.com/entertainment-arts/movies/story/2022-03-04/batman-villains-ranked-catwoman-riddler-penguin">Warner Bros. &amp; DC Comics</a>
-image-alt-text: "Zoë Kravitz as Selina Kyle and Robert Pattinson as Batman stare into each other's eyes. Batman holds Catwoman by her upper arm"
+image-alt-text: "Against an orange sunset, Zoë Kravitz as Selina Kyle and Robert Pattinson as Batman are overlooking Gotham City"
 ---
 
 ‘Hidden in the chaos is the element’ is a signature line from the opening gambit of Matt Reeves’ _The Batman_ (2022). It lays down the tone of the murky, crime-solving caper to follow. As a rule, I am not a devotee of fantasy or superhero lore. My filmic taste aligns with the darker side of myth and legend, and such crowd-pleasers rarely deliver on promises of true grit. This gloomiest and most [stylish](https://www.vogue.com.au/fashion/news/zoe-kravitz-batman-fashion/image-gallery/33d5a9c8e728739c5b74b92c29e962a6) entry into the DC canon paves an alternative path into the world of the Dark Knight that engages even with my cynical sensibilities.
