@@ -20,7 +20,7 @@ Miyazaki received criticism from right-wing supporters for his sympathetic Horik
 
 > ‘The wind is rising! … We must try to live!’
 
-![Cillian Murphy as Robert J Oppenheimer. He is standing at the Los Alamos test site holding a smoking pipe in his hand](assets/images/oppenheimer.webp)
+![Cillian Murphy as Robert J Oppenheimer. He is standing at the Los Alamos test site holding a smoking pipe in his hand](/assets/images/oppenheimer.webp)
 
 In 2023 — ten years later — Christopher Nolan makes _Oppenheimer_. This film and Miyazaki’s mirror each other on opposite sides of the Pacific. _Oppenheimer_ has been received more [favourably](https://www.nytimes.com/2023/07/19/movies/oppenheimer-review-christopher-nolan.html) by US audiences than _The Wind Rises_ — despite their shared themes, era and thesis. Using [American Prometheus](https://en.wikipedia.org/wiki/American_Prometheus) by Kai Bird and Martin J Sherwin as his source material, Nolan patches together major set pieces from the life of J Robert Oppenheimer; colloquially known as ‘father’ of the atomic bomb. Aligning the personal and historical, he attempts to demonstrate how actions of an individual led to the construction of technology that would impact generations.
 
