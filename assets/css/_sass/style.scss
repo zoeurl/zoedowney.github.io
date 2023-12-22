@@ -73,9 +73,15 @@ blockquote {
     padding: 0 1em;
 }
 
+.headline {
+    font-size: 3em;
+}
+
+.post-headline {
+    font-size: 4em;
+}
 
 .headline, .post-headline {
-    font-size: 4em;
     margin-bottom: 0.5em;
 
         @include media-query($on-palm) {
