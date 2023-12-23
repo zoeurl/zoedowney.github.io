@@ -6,7 +6,7 @@ director: "Paul Thomas Anderson"
 year: 2021
 image: /assets/images/licorice-pizza.webp
 image-credit: <a href="https://www.theringer.com/2022/1/11/22878015/lets-talk-licorice-pizza">Universal</a>
-image-alt-text: "Alana (Alana Haim), Gary (Cooper Hoffman), and his younger brother are sat in a convertable car. The two boys look ahead and Alana, who is driving, as she breaks the fourth wall by staring into the camera."
+image-alt-text: "Alana (Alana Haim), Gary (Cooper Hoffman), and his younger brother are sat in a convertable car. The two boys look ahead as Alana, who is driving, breaks the fourth wall by staring into the camera."
 ---
 
 Few films carry the label ‘laugh-out-loud’ and stand by that pledge. _[Licorice Pizza](https://en.wikipedia.org/wiki/Licorice_Pizza_%28store%29#:~:text=Licorice%20Pizza%20was%20a%20Los,the%20shape%20of%20a%20pizza.)_ is, verifiably, a riot. Steeped in the orange-tinted nostalgia of 1970s Los Angeles, it stars Alana [Haim](https://www.youtube.com/watch?v=ZjuA_o6Jzyo&ab_channel=HaimVEVO) (as Alana Kane) and Cooper Hoffman (Gary Valentine) alongside riff-raff, friends and familiar faces. The narrative is a string of capers that revolve around the central couple. Oh, and there’s a 10 year age gap between Gary and Alana: 15 and 25 respectively.
