@@ -6,7 +6,7 @@ director: "Anthony Minghella"
 year: 1999
 image: /assets/images/the-talented-mr-ripley.webp
 image-credit: <a href="https://mubi.com/en/gb/films/the-talented-mr-ripley">Miramax</a>
-image-alt-text: "From right to left: Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces"
+image-alt-text: "From right to left: Dickie Greenleaf (Jude Law), Tom Ripley and their Italian friend are singing together in a jazz club. The three men share a microphone and have joyful expressions on their faces."
 ---
 
 _The Talented Mr. Ripley_ is crime and glamour set in a make-believe Italian town on the edge of the ocean. Patricia Highsmith penned the 1955 novel from which Anthony Minghella takes inspiration, but the adaptation holds its own. In short: the story centres on small bluffs that unravel into bigger deceptions. 
