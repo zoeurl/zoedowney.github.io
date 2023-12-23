@@ -6,7 +6,7 @@ director: "Pedro Almodóvar"
 year: 2023
 image: /assets/images/strange-way-of-life.webp
 image-credit: <a href="https://mubi.com/en/gb/films/strange-way-of-life">Amazon MGM</a>
-image-alt-text: "Silva (Pedro Pascal) is standing in a parlour room facing the camera. To the left, behind him, Jake (Ethan Hawke) looks longingly over Silva's shoulder"
+image-alt-text: "Silva (Pedro Pascal) is standing in a parlour room facing the camera. To the left, behind him, Jake (Ethan Hawke) looks longingly over Silva's shoulder."
 ---
 
 _Brokeback Mountain_ now has a worthy match in the arena of heart-scoring tales of lost love and lonesome cowboys. _Strange Way of Life_ is Pedro Almodóvar’s short romance of regret located in the great American expanse. The often overplayed myth of the Old West feels refreshingly underdeveloped in this condensed 30-minute script; as credits showed up too soon, I was saddened that Almodóvar had not opted for a feature-length project this time.
