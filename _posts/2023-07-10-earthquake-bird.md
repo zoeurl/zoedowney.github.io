@@ -6,7 +6,7 @@ director: "Wash Westmoreland"
 year: 2019
 image: /assets/images/earthquake-bird.webp
 image-credit: <a href="https://m.imdb.com/title/tt8178486/mediaviewer/rm2725560065">A24</a>
-image-alt-text: "In Tokyo at night Alicia Vikander as Lucy Fly and Naoki Kobayashi as Teiji embrace each other; Teiji holds Lucy's head tenderly with his right hand to comfort her"
+image-alt-text: "In Tokyo at night Alicia Vikander as Lucy Fly and Naoki Kobayashi as Teiji embrace each other; Teiji holds Lucy's head tenderly with his right hand to comfort her."
 ---
 
 After a late start I get ahead on today’s feature. Monday plans include sending out job applications with one eye on the TV set. To echo Mac Miller’s [2013 LP](https://en.wikipedia.org/wiki/Watching_Movies_with_the_Sound_Off), I enjoy watching movies with the sound off. For the sake of this process I’ll keep the volume at a gentle level. I decide on a low-key thriller: a repeat viewing of Wash Westmoreland’s _Earthquake Bird_. This one is ideal background material but it’s by no means white noise. Plus, its ominously ambient [soundtrack](https://www.youtube.com/watch?v=lnB6pFwbYZk&ab_channel=AtticusRoss-Topic) was tended to by Nine Inch Nail’s Atticus Ross. It’s perfect fodder to pretend to work in front of.
