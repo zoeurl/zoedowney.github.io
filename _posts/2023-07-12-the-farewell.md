@@ -6,7 +6,7 @@ director: "Lulu Wang"
 year: 2019
 image: /assets/images/the-farewell.webp
 image-credit: <a href="https://www.theatlantic.com/entertainment/archive/2019/07/farewell-lulu-wang-movie-review-awkwafina/593464/">A24</a>
-image-alt-text: "Awkwafina as Billi against a backdrop of red city lights, her eyes gazing upwards"
+image-alt-text: "Awkwafina as Billi against a backdrop of red city lights, her eyes gazing upwards."
 ---
 
 My maternal grandmother passed away six months after I had seen Lulu Wang's _The Farewell_ (别告诉她). After she moved on, a curtain fell between me and memories of her. I kept hold of details, but vaguer aspects withdrew into a place to which I no longer had access.
