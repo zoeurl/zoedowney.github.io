@@ -6,7 +6,7 @@ director: "Olivier Assayas"
 year: 2016
 image: /assets/images/personal-shopper.webp
 image-credit: <a href="https://www.independent.co.uk/arts-entertainment/films/news/kristen-stewart-new-film-personal-shopper-booed-cannes-2016-review-a7033221.html">The Searchers</a>
-image-alt-text: "Kristen Stewart, as Maureen, is in a hotel room fastening a shimmering, silver-sequined dress. She gazes downwards with a vacant expression"
+image-alt-text: "Kristen Stewart, as Maureen, is in a hotel room fastening a shimmering, silver-sequined dress. She gazes downwards with a vacant expression."
 ---
 
 I awoke thinking of the artist Hilma af Klint, whose [work](https://www.guggenheim.org/teaching-materials/hilma-af-klint-paintings-for-the-future/spiritual-beliefs) is said to have been formed through her communion with spirits. It was a thought arc that led me to revisiting Olivier Assayas’ 2016 Cannes-winner _Personal Shopper_. The Swedish painter and spiritualist plays a fitting role in assembling the movie’s ghostly thematics, as well as its meditation on ‘technological avant-garde’.
