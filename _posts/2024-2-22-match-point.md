@@ -6,7 +6,7 @@ director: "Woody Allen"
 year: 2005
 image: /assets/images/match-point.webp
 image-credit: <a href="https://www.nytimes.com/2016/08/18/arts/television/whats-on-tv-thursday-unfaithful-and-usain-bolt-in-rio.html">DreamWorks</a>
-image-alt-text: "Chris (Jonathan Rhys Meyers) is swinging a ping-pong bat with his right arm, demostrating to Nola (Scarlett Johansson) how to play while holding her around the waist with his other arm."
+image-alt-text: "Chris (Jonathan Rhys Meyers) is swinging a ping-pong bat with his right arm, demonstrating to Nola (Scarlett Johansson) how to play while holding her around the waist with his other arm."
 ---
 
 The pseudo-philosophical playbook of Woody Allen's _Match Point_ dictates that life’s transformative successes hinge on chance. Whether one’s ball makes it over the net, so to speak, or bounces defeatedly back at the player. It’s a lesson that reiterates the bitter mantra of the middle and hard-working classes: when keeping score, it's not _what_, but _who_, you know that counts. A world in which one might ‘rather be lucky than good’, and where perching tentatively on the right stoops can twist the handles of rewarding and lucrative doors. Even if this is indeed so, filmmakers and admirers queuing on the once sought-after [Allen's](https://www.nytimes.com/2018/01/31/movies/woody-allen.html) porch have long since found other, more worthwhile entryways to clamour outside. But, for the sake of this exercise, that is beside the (match) point.
