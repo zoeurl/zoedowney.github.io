@@ -9,7 +9,7 @@ image-credit: <a href="https://www.npr.org/2023/05/24/1177912996/past-lives-is-a
 image-alt-text: "Hae Sung (left: Teo Yoo) and Nora (right: Greta Lee) stand across from one another on an empty New York City street. They stare wistfully into each other's eyes."
 ---
 
-Three strangers—a woman and two men—perch together at a dive bar in New York City. Onlookers, made known only by voice, imagine the perceived relationship between them. Sat between her men, the woman gently drags her gaze upwards before fixing it on us. Her eyes are heavy with feelings that are yet to be defined.
+Three strangers—a woman and two men—perch together at a dive bar in New York City. Onlookers, made known only by voice, imagine the perceived relationship between them. Sat in the middle, the woman gently drags her gaze upwards before fixing it on us. Her eyes are heavy with feelings that are yet to be defined.
 
 In the 2020s, the virtual houses itself within real life as if it has always nested there. Likewise, the concept of making and affirming connections through the internet becomes less alien with each passing year. The potential for spontaneous [digital connection](https://www.youtube.com/watch?v=FxzBvqY5PP0&ab_channel=DaftPunk) is threaded into the tapestry of modern existence as naturally as pairs of eyes, gazing across from one another, meeting by chance on a train on one afternoon.
 
