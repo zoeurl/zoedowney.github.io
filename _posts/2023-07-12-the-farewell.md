@@ -17,7 +17,7 @@ A conversation is opened about cross-cultural methods of processing sadness and 
 
 Billi’s means of coping is by exorcising her emotional turmoil. Hence, family members discourage her from visiting her grandmother. They are afraid her tears will uncover the lie. Billi and I are equally sentimental; each moment with grandma feels like nostalgia in the making. Nai Nai turns around from her seat at the dinner table, staring into the camera as if she’s looking at her granddaughter through a memory. We, the audience, stare back instead.
 
-_The Farewell_ hits an emotional register but it's funny, too. There's a joke told by Billi’s father about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a wonderful unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
+_The Farewell_ hits an emotional register but it's funny, too. At the dinner table, Billi’s dad tells a worn-out, fatherly joke about how to tactfully break bad news — it’s a light-hearted summary of the film’s thesis. Humour can be a wonderful unifier in hard times. Managing in difficult circumstances requires strength sourced from levity. We can’t afford to take life _that_ seriously.
 
 Post-viewing I reread the letter my grandma wrote to me from the care home where she spent her later years. She expresses a pertinent sentiment:
 
