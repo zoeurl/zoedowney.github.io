@@ -2,13 +2,7 @@
 layout: default
 ---
 
-<h1 class="post-headline"><a href="/" class="site-title">{{site.title}}</a> / <a class="page-title" href="/">{{page.title}}</a></h1>
-
-<h2 class="post-subtitle">
-{%- if page.subtitle -%}
-	{{ page.subtitle }}
-{%- endif -%}
-</h2>
+<h1 class="section-headline"><a href="/" class="site-title">{{site.title}}</a> / {{page.title}}</h1>
 
 {{content}}
 
