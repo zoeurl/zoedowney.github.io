@@ -1,41 +1,7 @@
 ---
 layout: default
 ---
-<h1 class="headline">{{site.title}}</h1>
 
-<p>
-hello,
-<br>welcome to my portfolio:
-</p>
-a collection of reviews and articles on cinema.
-</p>
-<a href="https://www.instagram.com/zoeurl/">instagram</a>
-<br><a href="https://vsco.co/zoeurl/gallery">vsco</a>
-<br><a href="mailto:{{site.email}}">email</a>
-</p>
-writer 
-<br>&amp; photographer 
-<br>london, uk.
-</p>
-
-<h2>reviews</h2>
-<div class="article-list">
-  <ul class="lowercase">
-  {% for post in site.posts %}{% if post.category == "review" %}
-  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
-  {% endif %}{% endfor %}
-  </ul>
-</div>
-
-<h2>features</h2>
-<div class="article-list">
-  <ul class="lowercase">
-  {% for post in site.posts %}{% if post.category == "feature" %}
-  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
-  {% endif %}{% endfor %}
-  </ul>
-</div>
-
-<footer>
-<p class="meta"><small>copyright © {{ site.time | date: '%Y' }} {{site.title}}. all rights reserved.</small></p>
-</footer>
+<h1 class="headline"><a href="/about/">{{site.title}}</a></h1>
+<div class="writing-block"><a href="/writing/">writing</a><div>
+<div class="photography-block"><a href="/photography/">photography</a></div>
