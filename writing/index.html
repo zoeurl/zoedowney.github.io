@@ -1,0 +1,22 @@
+---
+layout: section
+subtitle: Writing
+---
+
+<h2>reviews</h2>
+<div class="article-list">
+  <ul class="lowercase">
+  {% for post in site.posts %}{% if post.category == "review" %}
+  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endif %}{% endfor %}
+  </ul>
+</div>
+
+<h2>features</h2>
+<div class="article-list">
+  <ul class="lowercase">
+  {% for post in site.posts %}{% if post.category == "feature" %}
+  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endif %}{% endfor %}
+  </ul>
+</div>
