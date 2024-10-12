@@ -33,7 +33,6 @@ h1.section-headline {
 	color: $grey-color;
 }
 
-
 a {
     color: $brand-color;
 }
@@ -128,6 +127,23 @@ blockquote {
     display: inline-block;
 }
 
+#site-writing {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+}
+#site-writing {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
+#site-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /* Footer */
 footer {
     margin: 2em 0;
@@ -154,3 +170,4 @@ ul.lowercase li {
 .divider {
     margin: 1em 0;
 }
+
