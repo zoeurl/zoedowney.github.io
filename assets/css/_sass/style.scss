@@ -128,7 +128,7 @@ blockquote {
 }
 
 #site-writing {
-    position: absolute;
+    position: fixed;
     top: 1em;
     left: 1em;
 }
@@ -138,7 +138,7 @@ blockquote {
     right: 1em;
 }
 #site-title {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
