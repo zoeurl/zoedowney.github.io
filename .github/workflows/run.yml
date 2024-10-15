@@ -1,0 +1,28 @@
+name: Refresh photos
+
+on:
+  workflow_dispatch:
+
+env:
+  FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }} 
+  FLICKR_SHARED_SECRET: ${{ secrets.FLICKR_SHARED_SECRET }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '3.3'
+
+    - name: Make init
+      run: make init
+
+    - name: Make photos
+      run: make photos
+
+    - name: Commit photos
+      run: make commit-photos
+           git add _photos
+           git diff --quiet && git diff --staged --quiet || (git commit -m "Refreshed photos"; git push origin $(BRANCH))
