@@ -1,6 +1,9 @@
 require 'flickr'
 
-flickr = Flickr.new
+# FLICKR_API_KEY=
+# FLICKR_SHARED_SECRET=
+
+flickr = Flickr.new 
 
 flickr.photosets.getList(user_id: '137849239@N07').map do |set|
   title = set['title']
@@ -10,7 +13,7 @@ flickr.photosets.getList(user_id: '137849239@N07').map do |set|
 
   filename = title.gsub(' ', '-').gsub(/[^a-z0-9]/i, '-').squeeze('-')
 
-  File.open("_photography/" + filename + ".md", "w") do |f|
+  File.open("_photos/" + filename + ".md", "w") do |f|
     f.puts("---")
     f.puts("layout: photography")
     f.puts("category: photography")
