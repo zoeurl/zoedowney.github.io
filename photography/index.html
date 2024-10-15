@@ -3,4 +3,11 @@ layout: section
 title: photography
 ---
 
-<p>Coming soon ..</p>
+<h2>subjects</h2>
+<div class="article-list">
+  <ul class="lowercase">
+  {% for post in site.photos %}{% if post.category == "photography" %}
+  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endif %}{% endfor %}
+  </ul>
+</div>

@@ -14,8 +14,22 @@ include:
   - _pages
 
 exclude:
+  - Makefile
+  - tmp
+  - photos.rb
+
+collections:
+  photos:
+    permalink: /:path/
+    output: true
+      
+
+exclude:
   - README.md
   - LICENSE.md
+  - Makefile
+  - bin
+  - tmp
 
 plugins:
   - jekyll-seo-tag
