@@ -6,3 +6,4 @@ tmp/
 .bundle
 vendor/
 Gemfile.lock
+*.swp
