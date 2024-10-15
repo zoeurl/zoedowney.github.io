@@ -3,11 +3,15 @@ layout: section
 title: photography
 ---
 
-<h2>subjects</h2>
 <div class="article-list">
-  <ul class="lowercase">
+  <ul class="lowercase thumbnails">
   {% for post in site.photos %}{% if post.category == "photography" %}
-  <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  <li class="thumbnail">
+    <a href="{{post.url | prepend: site.baseurl}}">
+      <p>{{post.title}}</p>
+      <img src="{{post.primary}}" title="{{post.title}}" alt="{{post.title}}">
+    </a>
+  </li>
   {% endif %}{% endfor %}
   </ul>
 </div>

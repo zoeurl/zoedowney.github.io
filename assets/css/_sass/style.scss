@@ -61,6 +61,30 @@ img {
     max-height: 100vh;
 }
 
+ul.thumbnails {
+  margin: 1em 0;
+}
+
+.thumbnail img {
+    padding-right: 1em;
+    max-width: 240px;
+}
+
+li.thumbnail {
+    display: block;
+    float: left;
+    position: relative;
+}
+
+.thumbnail p {
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 1em;
+  color: white;
+  text-shadow: 0 1px 1px #000;
+}
+
 pre,
 code {
     overflow: auto;
@@ -155,6 +179,7 @@ blockquote {
 
 /* Footer */
 footer {
+    clear: left;
     margin: 2em 0;
     padding-bottom: 1em;
 }
