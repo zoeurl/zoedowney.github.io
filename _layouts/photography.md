@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 class="post-headline">{{page.title}}</h1>
+<h1 class="post-headline"><a href="/photography" class="section-title">photography</a> / {{page.title}}</h1>
 
 {{content}}
 
