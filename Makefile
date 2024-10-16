@@ -3,3 +3,6 @@ server:
 
 photos:
 	bundle exec ruby bin/photos.rb
+
+init:
+	bundle install
