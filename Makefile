@@ -1,5 +1,3 @@
-BRANCH=$(git describe --contains --all HEAD)
-
 photos:
 	bundle exec ruby bin/photos.rb
 
@@ -14,4 +12,4 @@ init:
 
 commit-photos:
 	git add _photos
-	git diff --quiet && git diff --staged --quiet || (git commit -m "Refreshed photos"; git push origin $(BRANCH))
+	git diff --quiet && git diff --staged --quiet || (git commit -m "Refreshed photos"; git push origin)
