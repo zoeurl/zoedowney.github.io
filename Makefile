@@ -1,13 +1,13 @@
 BRANCH=$(git describe --contains --all HEAD)
 
-server:
-	bundle exec jekyll serve
-
 photos:
 	bundle exec ruby bin/photos.rb
 
 clobber:
 	rm _photos/*
+
+server:
+	bundle exec jekyll serve
 
 init:
 	bundle install
