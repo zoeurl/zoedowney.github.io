@@ -19,6 +19,9 @@ jobs:
     - name: Make init
       run: make init
 
+    - name: Make clobber
+      run: make clobber
+
     - name: Make photos
       run: make photos
 

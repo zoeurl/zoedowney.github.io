@@ -6,6 +6,9 @@ server:
 photos:
 	bundle exec ruby bin/photos.rb
 
+clobber:
+	rm _photos/*
+
 init:
 	bundle install
 
