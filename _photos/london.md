@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: london
-primary: https://farm66.staticflickr.com/65535/54067303671_0a8c7067b3_b.jpg
+primary: https://farm66.staticflickr.com/65535/54066429022_bd4fba9b5f_b.jpg
 ---
 
 <div class="gallery">
