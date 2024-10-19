@@ -1,5 +1,4 @@
 photos:
-	env | grep FLICKR
 	bundle exec ruby bin/photos.rb
 
 clobber:
