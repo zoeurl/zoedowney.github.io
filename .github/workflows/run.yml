@@ -3,6 +3,9 @@ name: Refresh photos
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,12 +30,6 @@ jobs:
 
     - name: Commit photos
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add _photos/
-        git commit -m "Refreshed photos"
-
-    - name: Push changes
-      uses: ad-m/github-push-action@main
-      with:
-        branch: ${{ github.head_ref }}
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        make commit-photos
