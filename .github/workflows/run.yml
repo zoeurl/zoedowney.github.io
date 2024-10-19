@@ -26,4 +26,13 @@ jobs:
         FLICKR_SHARED_SECRET: ${{ secrets.FLICKR_SHARED_SECRET }}
 
     - name: Commit photos
-      run: make commit-photos
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add _photos/
+        git commit -m "Refreshed photos"
+
+    - name: Push changes
+      uses: ad-m/github-push-action@main
+      with:
+        branch: ${{ github.head_ref }}
