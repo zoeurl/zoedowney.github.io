@@ -3,10 +3,6 @@ name: Refresh photos
 on:
   workflow_dispatch:
 
-env:
-  FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }} 
-  FLICKR_SHARED_SECRET: ${{ secrets.FLICKR_SHARED_SECRET }}
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,6 +20,9 @@ jobs:
       run: make clobber
 
     - name: Make photos
+      env:
+        FLICKR_API_KEY: ${{ secrets.FLICKR_API_KEY }} 
+        FLICKR_SHARED_SECRET: ${{ secrets.FLICKR_SHARED_SECRET }}
       run: make photos
 
     - name: Commit photos
