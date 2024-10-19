@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: abstract
-primary: https://farm66.staticflickr.com/65535/54070924391_d63c2fa65f_b.jpg
+primary: https://farm66.staticflickr.com/65535/54079206199_026a3e78d6_b.jpg
 ---
 
 <div class="gallery">
