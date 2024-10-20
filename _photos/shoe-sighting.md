@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: shoe sighting
-primary: https://farm66.staticflickr.com/65535/54072121801_1528d7fc3e_b.jpg
+primary: https://farm66.staticflickr.com/65535/54067629499_a3beba4e25_b.jpg
 ---
 
 <div class="gallery">
