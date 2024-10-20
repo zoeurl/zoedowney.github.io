@@ -2,12 +2,13 @@
 layout: photography
 category: photography
 title: shoe sighting
-primary: https://farm66.staticflickr.com/65535/54068967868_1d9e5fa78d_b.jpg
+primary: https://farm66.staticflickr.com/65535/54067629499_a3beba4e25_b.jpg
 ---
 
 <div class="gallery">
   <div class="row">
     <div class="column">
+      <img src="https://farm66.staticflickr.com/65535/54067629499_a3beba4e25_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54068967868_1d9e5fa78d_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54071238452_a85a97b734_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072448634_b8e0e245ab_b.jpg">
@@ -16,7 +17,6 @@ primary: https://farm66.staticflickr.com/65535/54068967868_1d9e5fa78d_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54071238942_2deeaefa7e_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54071238932_843d903452_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072572300_2ceb3a6617_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54067629499_a3beba4e25_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067558133_588aa39d67_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072572460_9d0fb1c334_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072448334_4bc4cf8982_b.jpg">
