@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: japan, 19
-primary: https://farm66.staticflickr.com/65535/54067646199_53a01c4bdd_b.jpg
+primary: https://farm66.staticflickr.com/65535/54066441502_836e7b4d53_b.jpg
 ---
 
 <div class="gallery">
