@@ -18,8 +18,8 @@ primary: https://farm66.staticflickr.com/65535/54070909786_65911cc28b_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54072448159_6053037093_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072572925_58259850e1_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072373908_684573882e_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54067637569_2a9436914e_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54080544398_a6ae6c2566_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54067637569_2a9436914e_b.jpg">
     </div>
   </div>
 </div>
