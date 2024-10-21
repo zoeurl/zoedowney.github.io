@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: hands
-primary: https://farm66.staticflickr.com/65535/54067637459_72b03a84bd_b.jpg
+primary: https://farm66.staticflickr.com/65535/54070909786_65911cc28b_b.jpg
 ---
 
 <div class="gallery">
