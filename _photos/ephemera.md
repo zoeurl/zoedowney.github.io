@@ -19,12 +19,9 @@ primary: https://farm66.staticflickr.com/65535/54085416803_0ae31d2bb8_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54072374153_4f8ddf2c76_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072572220_5e83c54bb4_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54069721073_23769e5424_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54070044812_a36b448469_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54071238187_a15b00900c_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067280431_4e9ea218c4_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067742070_45ed06081c_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54072341204_2b9d4460a0_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54071131612_315b873e1f_b.jpg">
     </div>
   </div>
 </div>
