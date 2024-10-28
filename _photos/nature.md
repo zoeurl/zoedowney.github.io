@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: natural
+title: nature
 primary: https://farm66.staticflickr.com/65535/54068589227_f7bd20f632_b.jpg
 ---
 
@@ -10,7 +10,6 @@ primary: https://farm66.staticflickr.com/65535/54068589227_f7bd20f632_b.jpg
     <div class="column">
       <img src="https://farm66.staticflickr.com/65535/54068589227_f7bd20f632_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072374058_739e8d996b_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54071239177_584abc42f6_b.jpg">
     </div>
   </div>
 </div>
