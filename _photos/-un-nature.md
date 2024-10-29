@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: nature
+title: (un)nature
 primary: https://farm66.staticflickr.com/65535/54068589227_f7bd20f632_b.jpg
 ---
 
