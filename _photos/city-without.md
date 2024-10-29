@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: city
+title: city, without
 primary: https://farm66.staticflickr.com/65535/54067303671_0a8c7067b3_b.jpg
 ---
 
