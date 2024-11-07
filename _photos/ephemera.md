@@ -9,11 +9,9 @@ primary: https://farm66.staticflickr.com/65535/54085416803_0ae31d2bb8_b.jpg
   <div class="row">
     <div class="column">
       <img src="https://farm66.staticflickr.com/65535/54085416803_0ae31d2bb8_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54072014366_9c367733b5_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54069721073_23769e5424_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067742055_02ec88a22d_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067539403_402a5cab90_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54072448779_e1ce549534_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54069721073_23769e5424_b.jpg">
     </div>
   </div>
 </div>
