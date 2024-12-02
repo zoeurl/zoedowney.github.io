@@ -15,15 +15,10 @@ primary: https://farm66.staticflickr.com/65535/54068967868_1d9e5fa78d_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54072448634_33b2975fe1_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067299526_7c33e127a9_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067629499_6ef6ff3e0d_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140246533_c54b6dcf19_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067299491_3c6f02b7d8_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140294994_7fa6a230aa_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54139966756_512bab7c4b_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140246643_ff5f902618_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54139965341_575bd426f0_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54140250878_59e6c05492_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54139965326_04a4190e0e_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140426935_9cda339498_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54139964891_0f871c4ec8_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54140246568_357c0060a9_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54139964746_af4b6a21ea_b.jpg">
