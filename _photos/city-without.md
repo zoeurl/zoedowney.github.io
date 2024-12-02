@@ -9,8 +9,6 @@ primary: https://farm66.staticflickr.com/65535/54068501662_500e61b89c_b.jpg
   <div class="row">
     <div class="column">
       <img src="https://farm66.staticflickr.com/65535/54068501662_500e61b89c_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140422255_a54ecb9f46_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54140290249_c5835ce649_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54072478595_cc71537395_b.jpg">
     </div>
   </div>
