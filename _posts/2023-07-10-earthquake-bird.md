@@ -9,7 +9,7 @@ image-credit: <a href="https://m.imdb.com/title/tt8178486/mediaviewer/rm27255600
 image-alt-text: "In Tokyo at night Alicia Vikander as Lucy Fly and Naoki Kobayashi as Teiji embrace each other; Teiji holds Lucy's head tenderly with his right hand to comfort her."
 ---
 
-Wash Westmoreland’s _Earthquake Bird_ is ideal background viewing material, but it is by no means white noise. Indeed, its ominously ambient [soundtrack](https://www.youtube.com/watch?v=lnB6pFwbYZk&ab_channel=AtticusRoss-Topic) was tended to by Nine Inch Nail’s Atticus Ross.
+Wash Westmoreland’s _Earthquake Bird_ is ideal background viewing material, however it is by no means white noise. Indeed, its ominously ambient [soundtrack](https://www.youtube.com/watch?v=lnB6pFwbYZk&ab_channel=AtticusRoss-Topic) was tended to by Nine Inch Nail’s Atticus Ross.
 
 Louisa ‘Lucy’ Fly (Alicia Vikander) is a Swedish expat in 1980s Tokyo. She’s there translating subtitles for Michael Douglas erotic thrillers and, of course, hiding from a murky past. She attempts to integrate into Japanese society although this darkness has kept tabs on her. Lucy meets Teiji (Naoki Kobayashi), a striking photographer who is as mysterious and antisocial as her. They begin a tense affair that leads to irrevocable consequences.
 
