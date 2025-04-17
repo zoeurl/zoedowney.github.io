@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: holding hands
+title: hands holding
 primary: https://farm66.staticflickr.com/65535/54067637459_72b03a84bd_b.jpg
 ---
 
