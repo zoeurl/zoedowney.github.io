@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: unlikely symmetry
+title: symmetry disrupted
 primary: https://farm66.staticflickr.com/65535/54139944256_c8972e1fcb_b.jpg
 ---
 
@@ -29,9 +29,10 @@ primary: https://farm66.staticflickr.com/65535/54139944256_c8972e1fcb_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54186824568_f7af950d2c_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067777620_20c4f4f90e_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54180894719_6772a93f70_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54139092832_b87c337616_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54140268719_f401d0bc97_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54066441502_836e7b4d53_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54457054087_394fbc06e5_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54140286024_86c10f8f19_b.jpg">
     </div>
   </div>
 </div>
