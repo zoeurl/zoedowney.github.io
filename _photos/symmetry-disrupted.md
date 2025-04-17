@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: symmetry disrupted
+title: symmetry, disrupted
 primary: https://farm66.staticflickr.com/65535/54139944256_c8972e1fcb_b.jpg
 ---
 
