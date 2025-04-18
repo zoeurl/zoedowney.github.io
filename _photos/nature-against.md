@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: nature, against
-primary: https://farm66.staticflickr.com/65535/54180894719_6772a93f70_b.jpg
+primary: https://farm66.staticflickr.com/65535/54068589227_f7bd20f632_b.jpg
 ---
 
 <div class="gallery">
