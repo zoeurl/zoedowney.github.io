@@ -22,7 +22,6 @@ primary: https://farm66.staticflickr.com/65535/54140232968_1f5ea52d16_b.jpg
       <img src="https://farm66.staticflickr.com/65535/54186986460_65c3f34142_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54186828884_8acba0a03b_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54186832489_083f900b9a_b.jpg">
-      <img src="https://farm66.staticflickr.com/65535/54471774886_139882ecb5_b.jpg">
     </div>
   </div>
 </div>
