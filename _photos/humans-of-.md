@@ -8,8 +8,8 @@ primary: https://farm66.staticflickr.com/65535/54069411006_3307b7e757_b.jpg
 <div class="gallery">
   <div class="row">
     <div class="column">
-      <img src="https://farm66.staticflickr.com/65535/54069411006_3307b7e757_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54140232968_b564d954b8_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54069411006_3307b7e757_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54186828899_4fe5954fcf_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54186546016_ede2551149_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54185659882_84ccb80df1_b.jpg">
