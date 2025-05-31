@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: featured
-primary: https://farm66.staticflickr.com/65535/54139944256_c8972e1fcb_b.jpg
+primary: https://farm66.staticflickr.com/65535/54462445506_c468be7f97_b.jpg
 ---
 
 <div class="gallery">
