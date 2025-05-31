@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: japan / 日本 2019
-primary: https://farm66.staticflickr.com/65535/54460323790_716cf6c3c3_b.jpg
+primary: https://farm66.staticflickr.com/65535/54067777620_db0018e591_b.jpg
 ---
 
 <div class="gallery">
