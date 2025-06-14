@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: featured
+title: ephemera
 primary: https://farm66.staticflickr.com/65535/54462445506_c468be7f97_b.jpg
 ---
 
