@@ -2,14 +2,14 @@
 layout: photography
 category: photography
 title: japan, autumn
-primary: https://farm66.staticflickr.com/65535/54067777620_db0018e591_b.jpg
+primary: https://farm66.staticflickr.com/65535/54460323790_716cf6c3c3_b.jpg
 ---
 
 <div class="gallery">
   <div class="row">
     <div class="column">
-      <img src="https://farm66.staticflickr.com/65535/54067777620_db0018e591_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54460323790_716cf6c3c3_b.jpg">
+      <img src="https://farm66.staticflickr.com/65535/54067777620_db0018e591_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067777480_8196150f14_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54140286024_5694ca30e9_b.jpg">
       <img src="https://farm66.staticflickr.com/65535/54067646224_beacd15c0e_b.jpg">
