@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: japan, autumn
-primary: https://farm66.staticflickr.com/65535/54066441502_1e47595fee_b.jpg
+primary: https://farm66.staticflickr.com/65535/54079258357_37d683dd99_b.jpg
 ---
 
 <div class="gallery">
