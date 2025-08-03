@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: ephemera
-primary: https://farm66.staticflickr.com/65535/54462445506_c051cea93a_b.jpg
+primary: https://farm66.staticflickr.com/65535/54558601814_e782ab4d08_b.jpg
 ---
 
 <div class="gallery">
