@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: japan, autumn
+title: japan, autumn 19
 primary: https://farm66.staticflickr.com/65535/54460323790_716cf6c3c3_b.jpg
 ---
 
