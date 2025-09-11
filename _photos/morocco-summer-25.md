@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: morocco, summer 25
-primary: https://farm66.staticflickr.com/65535/54739384648_a03cb04da3_b.jpg
+primary: https://farm66.staticflickr.com/65535/54739368553_731ff49047_b.jpg
 ---
 
 <div class="gallery">
