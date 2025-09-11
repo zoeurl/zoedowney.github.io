@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: humans of —
-primary: https://farm66.staticflickr.com/65535/54069411006_67352b57cf_b.jpg
+primary: https://farm66.staticflickr.com/65535/54186813993_b31a520386_b.jpg
 ---
 
 <div class="gallery">
