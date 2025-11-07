@@ -5,7 +5,7 @@ title: blog
 
 <div class="article-list">
   <ul class="lowercase thumbnails">
-  {% for post in site.photos %}{% if post.category == "blog" %}
+  {% for post in site.photos %}{% if post.category == "photography" %}
   <li class="thumbnail">
     <a href="{{post.url | prepend: site.baseurl}}">
       <p>{{post.title}}</p>
