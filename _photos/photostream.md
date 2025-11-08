@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: photostream
-primary: https://farm66.staticflickr.com/65535/54462445506_c051cea93a_b.jpg
+primary: https://farm66.staticflickr.com/65535/54078022892_c23145c2af_b.jpg
 ---
 
 <div class="gallery">
