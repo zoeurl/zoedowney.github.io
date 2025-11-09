@@ -19,6 +19,15 @@ body {
 
     }
 
+body.full-width {
+        max-width: 100%;
+        padding: 0;
+    }
+
+body.full-width h1 {
+        padding: 0 1em;
+    }
+
 h1.post-headline {
 	margin: 0;
 }
@@ -184,6 +193,10 @@ footer {
     padding-bottom: 1em;
 }
 
+body.full-width footer {
+    padding: 0 1em 1em 1em;
+}
+
 ul {
 	list-style-type: "";
 	margin: 0;
@@ -203,4 +216,30 @@ ul.lowercase li {
 /* Horizontal Divider */
 .divider {
     margin: 1em 0;
+}
+
+/* Masonry Gallery */
+.gallery {
+    column-count: 3;
+    column-gap: 0.5em;
+    padding: 0 0.25em;
+
+    @include media-query($on-laptop) {
+        column-count: 2;
+    }
+
+    @include media-query($on-palm) {
+        column-count: 1;
+    }
+}
+
+.gallery .column {
+    column-count: 1;
+}
+
+.gallery img {
+    width: 100%;
+    margin-bottom: 0.5em;
+    break-inside: avoid;
+    display: block;
 }

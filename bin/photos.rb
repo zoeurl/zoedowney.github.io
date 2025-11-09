@@ -22,16 +22,12 @@ flickr.photosets.getList(user_id: '137849239@N07').map do |set|
     f.puts("---")
     f.puts("")
     f.puts('<div class="gallery">')
-    f.puts('  <div class="row">')
-    f.puts('    <div class="column">')
-    
+
     flickr.photosets.getPhotos(photoset_id: set['id']).photo.map do |photo|
       photo_url = Flickr.url_b(photo)
-      f.puts('      <img src="' + photo_url + '">')
+      f.puts('  <img src="' + photo_url + '">')
     end
 
-    f.puts("    </div>")
-    f.puts("  </div>")
     f.puts("</div>")
   end
 end
