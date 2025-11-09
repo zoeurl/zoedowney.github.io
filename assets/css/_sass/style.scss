@@ -221,8 +221,8 @@ ul.lowercase li {
 /* Masonry Gallery */
 .gallery {
     column-count: 3;
-    column-gap: 0.5em;
-    padding: 0 0.25em;
+    column-gap: 1em;
+    padding: 0 0.5em;
 
     @include media-query($on-laptop) {
         column-count: 2;
@@ -239,7 +239,7 @@ ul.lowercase li {
 
 .gallery img {
     width: 100%;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
     break-inside: avoid;
     display: block;
 }
