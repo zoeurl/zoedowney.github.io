@@ -21,7 +21,7 @@
 
         <main>
             <article>
-                <h1 class="post-headline"><a href="/" class="section-title">{{site.author | downcase}}</a> / {{page.title}}</h1>
+                <h1 class="post-headline">zoë downey</h1>
                 {{ content }}
             </article>
         </main>
