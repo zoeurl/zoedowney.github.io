@@ -6,6 +6,7 @@ primary: https://farm66.staticflickr.com/65535/55032159665_c0baae1d26_b.jpg
 ---
 
 <div class="gallery">
+  <img src="https://farm66.staticflickr.com/65535/55032697799_f530f150d1_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55032159665_c0baae1d26_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55031018987_146a0a3059_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55031018997_aba3fae4d6_b.jpg">
