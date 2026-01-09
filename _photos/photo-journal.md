@@ -1,12 +1,11 @@
 ---
 layout: photography
 category: photography
-title: journal
+title: photo journal
 primary: https://farm66.staticflickr.com/65535/54912758354_2f2c163c6d_b.jpg
 ---
 
 <div class="gallery">
-  <img src="https://farm66.staticflickr.com/65535/54912758354_2f2c163c6d_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739513430_9504507551_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739384648_a03cb04da3_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739384653_b4391fb41f_b.jpg">
@@ -27,6 +26,7 @@ primary: https://farm66.staticflickr.com/65535/54912758354_2f2c163c6d_b.jpg
   <img src="https://farm66.staticflickr.com/65535/54668544882_f69c9098f2_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54066441502_1e47595fee_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54067777480_8196150f14_b.jpg">
+  <img src="https://farm66.staticflickr.com/65535/54912758354_2f2c163c6d_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54460323790_716cf6c3c3_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54140286024_5694ca30e9_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54079258357_37d683dd99_b.jpg">
