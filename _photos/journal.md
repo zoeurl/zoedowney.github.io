@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: photo journal
+title: journal
 primary: https://farm66.staticflickr.com/65535/54912758354_2f2c163c6d_b.jpg
 ---
 
