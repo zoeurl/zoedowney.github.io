@@ -38,3 +38,9 @@ This will:
 - Update all galleries in `_photos/`
 - Update `index.html` with the journal gallery
 - Commit and push the changes
+
+## Favicon
+
+The favicon was made from Zoë's drawing, scanned in as a PNG, traced to SVG using [Inkscape](https://en.wikipedia.org/wiki/Inkscape), edited using [BoxySVG](https://boxy-svg.com/) and optimised using [svgomg.net](https://svgomg.net/). 
+
+The assets were then made from the SVG using [favicon.io](https://favicon.io/favicon-converter/) and unzipped into the [assets/favicon/](assets/favicon/) directory. A copy of the [favicon.ico](favicon.ico) file was also saved in the root directory.
