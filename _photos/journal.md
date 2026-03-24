@@ -7,6 +7,9 @@ primary: https://farm66.staticflickr.com/65535/55033562934_1e45b63b60_b.jpg
 
 <div class="gallery">
   <img src="https://farm66.staticflickr.com/65535/55033562934_1e45b63b60_b.jpg">
+  <img src="https://farm66.staticflickr.com/65535/55166549596_fc98314854_b.jpg">
+  <img src="https://farm66.staticflickr.com/65535/55166549591_bf0208fd03_b.jpg">
+  <img src="https://farm66.staticflickr.com/65535/55166711958_3f02ef0c18_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739513430_9504507551_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739384648_a03cb04da3_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54739384653_b4391fb41f_b.jpg">
