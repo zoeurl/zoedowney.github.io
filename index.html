@@ -2,7 +2,7 @@
 layout: photography
 category: photography
 title: journal
-primary: https://farm66.staticflickr.com/65535/55168389750_d822294b9d_b.jpg
+primary: https://farm66.staticflickr.com/65535/55167349522_f569a008af_b.jpg
 ---
 
 <div class="gallery">
