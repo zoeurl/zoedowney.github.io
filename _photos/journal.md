@@ -36,8 +36,6 @@ primary: https://farm66.staticflickr.com/65535/55033562934_1e45b63b60_b.jpg
   <img src="https://farm66.staticflickr.com/65535/54139956276_ab1cb0c17b_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54067646224_beacd15c0e_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54140285909_3fc42a370e_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54140418205_c4aea57a23_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54139104032_6cc9a922c0_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54140418305_733e723a27_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54067777580_1a06722055_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54067646159_dd9a12ba34_b.jpg">
@@ -53,15 +51,10 @@ primary: https://farm66.staticflickr.com/65535/55033562934_1e45b63b60_b.jpg
   <img src="https://farm66.staticflickr.com/65535/54186828899_bd4192c004_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54140232688_7318fe8b40_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54185659882_4b52ee34e2_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54186546016_8ffbe58f90_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54069411006_67352b57cf_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54186828884_ee4097e004_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54140233193_82a51b4b43_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54186986460_ede97414fd_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54186986405_4f633cec51_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54186813993_b31a520386_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54186813928_63cede5e2d_b.jpg">
-  <img src="https://farm66.staticflickr.com/65535/54186813983_714832b052_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54186832489_c6de95e819_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54693593285_af53e8b2dd_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/54068589227_e2bc39c9e6_b.jpg">
