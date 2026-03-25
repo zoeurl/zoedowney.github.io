@@ -21,7 +21,7 @@
 
         <main>
             <article>
-                <h1 class="post-headline">₍ᐢ. .ᐢ₎୨୧ <a href="https://www.instagram.com/zoeurl">zoë</a> ₊˚⊹</h1>
+                <h1 class="post-headline">₍ᐢ. .ᐢ₎୨୧ <a href="https://www.instagram.com/zoeurl">zoë downey</a> ₊˚⊹</h1>
                 {{ content }}
             </article>
         </main>
