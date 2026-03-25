@@ -21,7 +21,7 @@
 
         <main>
             <article>
-                <h1 class="post-headline">🎀</h1>
+                <h1 class="post-headline">•ᴗ• ⋆˚✿˖°₍^. .^₎⟆🎀. ݁₊ ⊹ . ݁˖☘︎ ݁˖</h1>
                 {{ content }}
             </article>
         </main>
