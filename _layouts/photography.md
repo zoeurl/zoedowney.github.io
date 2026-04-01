@@ -21,9 +21,9 @@
 
         <main>
             <article>
-                <h6 class="post-headline"> 
+                <h4 class="post-headline"> 
 				<a href="http://www.zoedowney.com/">  𖠿  </a>  <a href="mailto:{{site.email}}">  ✎  </a> <a href="https://www.flickr.com/photos/zoedowney">  ❀  </a>  <a href="https://www.instagram.com/zoeurl">  ₍ᐢ. .ᐢ₎</a><a href="https://letterboxd.com/zoeurl">୨୧</a></font>
-				<br><font color="pink">ゾーイ  zoë  زوي</font></h6>
+				<br><font color="pink">ゾーイ  zoë  زوي</font></h4>
                 {{ content }}
             </article>
         </main>
