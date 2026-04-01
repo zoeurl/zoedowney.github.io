@@ -22,7 +22,7 @@
         <main>
             <article>
                 <h1 class="post-headline">₍ᐢ. .ᐢ₎୨୧ zoë downey ₊˚⊹
-				<br><a href="https://www.instagram.com/zoeurl">@zoeurl</a>💮🎀🐍</h1>
+				<br><a href="https://www.instagram.com/zoeurl">@zoeurl</a> 💮🎀🐍</h1>
                 {{ content }}
             </article>
         </main>
