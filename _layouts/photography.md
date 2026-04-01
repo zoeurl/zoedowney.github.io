@@ -4,9 +4,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap" rel="stylesheet">
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto">
 	{% include favicon.html %}
         {% seo %}
     </head>
