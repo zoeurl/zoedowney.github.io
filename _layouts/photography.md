@@ -22,7 +22,8 @@
         <main>
             <article>
                 <h1 class="post-headline"> 
-				<font color="#f53b76"><a href="http://www.zoedowney.com/">𖠿</a> ゾーイ  zoë  زوي     <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl">୨୧</a></font></h1>
+				<font color="#f53b76"><a href="http://www.zoedowney.com/"> 𖠿 </a>ゾーイ  zoë  زوي
+				<br><a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl">୨୧</a></font></h1>
                 {{ content }}
             </article>
         </main>
