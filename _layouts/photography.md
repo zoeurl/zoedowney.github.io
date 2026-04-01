@@ -21,8 +21,7 @@
 
         <main>
             <article>
-                <h1 class="post-headline"> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎୨୧</a> zoë downey <a href="https://letterboxd.com/zoeurl/">₊˚⊹</a>
-				<br>💮🎀🐍</h1>
+                <h1 class="post-headline"><a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎୨୧</a> zoë downey <a href="https://letterboxd.com/zoeurl/">₊˚⊹</a></h1>
                 {{ content }}
             </article>
         </main>
