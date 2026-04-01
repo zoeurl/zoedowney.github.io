@@ -22,7 +22,7 @@
         <main>
             <article>
                 <h1 class="post-headline"> zoë زوي ゾーイ
-				<br><a href="http://www.zoedowney.com/">  𖠿  </a>  <a href="mailto:{{site.email}}">  ✎  </a> <a href="https://www.flickr.com/photos/zoedowney">  [◉°]  </a>  <a href="https://www.instagram.com/zoeurl">  ₍ᐢ. .ᐢ₎</a><a href="https://letterboxd.com/zoeurl">୨୧</a></font></h1>
+				<br><a href="http://www.zoedowney.com/">  𖠿  </a>  <a href="mailto:{{site.email}}">  ✎  </a> <a href="https://www.flickr.com/photos/zoedowney">  ⚘  </a>  <a href="https://www.instagram.com/zoeurl">  ₍ᐢ. .ᐢ₎</a><a href="https://letterboxd.com/zoeurl">୨୧</a></font></h1>
                 {{ content }}
             </article>
         </main>
