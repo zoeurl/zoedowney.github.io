@@ -22,7 +22,7 @@
  <main>
 <article>
                 <h1 class="post-headline"> 
-				<font color="#bd194c"><a href="https://farm66.staticflickr.com/65535/55181710556_9a3038cd62_b.jpg">𖠿</a>
+				<font color="#d11730"><a href="https://farm66.staticflickr.com/65535/55181710556_9a3038cd62_b.jpg">𖠿</a>
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني
 	<br>zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<br><a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl">୨୧</a></font></h1>
