@@ -23,9 +23,9 @@
 <article>
                 <h1 class="post-headline"> 
 <font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني
+<br><font color="#fcc386">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><font color="#f58245">ゾーイ・ダウニー</font>
 <br><a href="http://www.zoedowney.com">𖠿</a> <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl">୨୧</a>
-<br><font color="#fcc386">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 </h1>
                 {{ content }}
             </article>
