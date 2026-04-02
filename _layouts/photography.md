@@ -25,7 +25,7 @@
 <font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني
 <br><a href="http://www.zoedowney.com">𖠿</a> <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl">୨୧</a>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
-<br><font color="#fcbd79">ゾーイ・ダウニー</font></h1>
+<br><font color="#fcca95">ゾーイ・ダウニー</font></h1>
                 {{ content }}
             </article>
         </main>
