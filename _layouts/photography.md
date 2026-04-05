@@ -22,7 +22,7 @@
  <main>
 <article>
                 <h1 class="post-headline">
-<a href="http://www.zoedowney.com">𖠿</a> <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://vsco.co/zoeurl/gallery">୨୧</a>
+<a href="http://www.zoedowney.com">𖠿</a> <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://vsco.co/zoeurl/gallery">୨୧</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://letterboxd.com/zoeurl/">₊˚⊹</a>
 					<br><font color="#f58245">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني
 <br><font color="#f55353">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><font color="#fcc386">ゾーイ・ダウニー</font></h1>
