@@ -26,7 +26,7 @@
 <br><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio</a></small>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1>
 	<center><figure>
-    <img src="/assets/favicon/zoe-avatar.png"
+    <img src="/assets/favicon/android-chrome-192x192.png"
          alt="zoë's avatar illustration"></figure></center>
                 {{ content }}
             </article>
