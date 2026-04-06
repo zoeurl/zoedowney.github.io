@@ -21,12 +21,12 @@
 
  <main>
 <article>
+	<center><figure>
+    <img src="/assets/favicon/zoe-favicon.png"
+         alt="zoë's avatar illustration"></figure></center>
                 <h1 class="post-headline"><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">₍ᐢ. .ᐢ₎୨୧</a>
 <br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1></small>
-					<center><figure>
-    <img src="/assets/favicon/zoe-favicon.png"
-         alt="zoë's avatar illustration"></figure></center>
                 {{ content }}
             </article>
         </main>
