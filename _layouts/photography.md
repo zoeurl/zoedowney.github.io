@@ -27,8 +27,6 @@
 	<center><figure>
     <img src="/assets/favicon/zoe-favicon.png"
          alt="zoë's avatar illustration"><img src="zoe-favicon.png" width="50" height="50"></figure></center>
-    <img src="/assets/favicon/zoe-avatar.png"
-         alt="zoë's avatar illustration"></figure></center>
                 {{ content }}
             </article>
         </main>
