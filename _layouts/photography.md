@@ -34,8 +34,7 @@
 
 <footer>
             <p class="meta">
-            <center><font color="#ffe6e6">Copyright © 
-				<br>{{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#ffe6e6">Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>All rights reserved</font></center>
             </p>
         </footer>
