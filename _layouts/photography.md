@@ -21,8 +21,7 @@
 
  <main>
 <article>
-                <h1 class="post-headline">
-<a href="http://www.zoedowney.com">𖠿</a> <a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://vsco.co/zoeurl/gallery">୨</a><a href="https://letterboxd.com/zoeurl">୧</a>
+                <h1 class="post-headline"><a href="mailto:{{site.email}}">✎</a> <a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">❀</a> <a href="https://www.instagram.com/zoeurl">₍ᐢ. .ᐢ₎</a> <a href="https://vsco.co/zoeurl/gallery">୨</a><a href="https://letterboxd.com/zoeurl">୧</a>
 					<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><font color="#ff7aa4">ゾーイ・ダウニー</font></h1>
@@ -35,7 +34,8 @@
 
 <footer>
             <p class="meta"><small>
-            Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. All rights reserved.</small>
+            <a href="http://www.zoedowney.com">𖠿</a>
+			<br>Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. All rights reserved.</small>
             </p>
         </footer>
 
