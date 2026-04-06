@@ -21,8 +21,9 @@
 
  <main>
 <article>
-                <h1 class="post-headline"><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio</a></small>
-<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+                <h1 class="post-headline">
+<font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+<br><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio</a></small>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1>
 	<center><figure>
     <img src="/assets/favicon/zoe-avatar.png"
