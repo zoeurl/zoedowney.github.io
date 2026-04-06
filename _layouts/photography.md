@@ -32,7 +32,7 @@
 
 <footer>
             <p class="meta"><small>
-            copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. all rights reserved.</small>
+            Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. All rights reserved.</small>
             </p>
         </footer>
 
