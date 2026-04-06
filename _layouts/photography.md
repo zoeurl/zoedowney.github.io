@@ -25,8 +25,7 @@
 <br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
 <br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1></small>
 	<center><figure>
-    <img src="/assets/favicon/zoe-favicon.png"
-         alt="zoë's avatar illustration"><img src="zoe-favicon.png" width="50" height="50"></figure></center>
+    <img src="/assets/favicon/zoe-favicon.png" width="50" height="50"></figure></center>
                 {{ content }}
             </article>
         </main>
