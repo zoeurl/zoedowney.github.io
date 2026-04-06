@@ -21,9 +21,9 @@
 
  <main>
 <article>
-                <h1 class="post-headline"><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+                <h1 class="post-headline"><small><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
+<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>زوي داوني</h1>
                 {{ content }}
             </article>
         </main>
