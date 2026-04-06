@@ -22,7 +22,7 @@
  <main>
 <article>
 	<center><figure>
-    <img src="/assets/favicon/zoe-favicon.png"
+    <img src="/assets/favicon/zoe-avatar.png"
          alt="zoë's avatar illustration"></figure></center>
                 <h1 class="post-headline"><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio ₍ᐢ. .ᐢ₎୨୧</a>
 <br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
