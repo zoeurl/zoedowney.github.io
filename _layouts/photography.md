@@ -26,7 +26,7 @@
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1></small>
 					<center><figure>
     <img src="/assets/favicon/zoe-favicon.png"
-         alt="zoë downey's photo journal avatar illustration"></figure></center>
+         alt="zoë's avatar illustration"></figure></center>
                 {{ content }}
             </article>
         </main>
