@@ -27,7 +27,7 @@
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><font color="#ff7aa4">ゾーイ・ダウニー</font></h1>
 	<center><figure>
-    <img src="/assets/favicon/zoe-avatar-4.png"
+    <img src="/assets/favicon/zoe-avatar.png"
          alt="zoë downey's photo journal avatar illustration">
 </figure></center>
                 {{ content }}
