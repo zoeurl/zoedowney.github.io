@@ -33,9 +33,9 @@
         </main>
 
 <footer>
-            <p class="meta"><small>
-            <a href="http://www.zoedowney.com">𖠿</a>
-			<br>Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. All rights reserved.</small>
+            <p class="meta">
+            <center><a href="http://www.zoedowney.com">𖠿</a>
+			<br>Copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>. All rights reserved.</center>
             </p>
         </footer>
 
