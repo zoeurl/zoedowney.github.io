@@ -24,9 +24,9 @@
 	<center><figure>
     <img src="/assets/favicon/zoe-avatar.png"
          alt="zoë's avatar illustration"></figure></center>
-                <h1 class="post-headline"><small><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio ₍ᐢ. .ᐢ₎୨୧</a>
+                <h1 class="post-headline"><a href="https://www.flickr.com/photos/zoedowney/albums/with/72177720326522222">portfolio</a>
 <br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
-<br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1></small>
+<br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></h1>
                 {{ content }}
             </article>
         </main>
