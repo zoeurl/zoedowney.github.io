@@ -26,6 +26,11 @@
 					<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 <br><font color="#f58245">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
 <br><font color="#ff7aa4">ゾーイ・ダウニー</font></h1>
+	<figure>
+    <img src="/assets/images/.jpeg"
+         alt="zoë's photo journal avatar">
+    <figcaption></figcaption>
+</figure>
                 {{ content }}
             </article>
         </main>
