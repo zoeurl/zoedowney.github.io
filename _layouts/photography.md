@@ -21,7 +21,6 @@
 
  <main>
 <article>
-	<br>
 	<center><figure>
     <img src="/assets/favicon/zoe-favicon.png" width="200" height="200"></figure></center>
 	<h1 class="post-headline"><small><font color="#ce95f0">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
