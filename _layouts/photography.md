@@ -36,7 +36,7 @@
 <footer>
 	<center><font color="#5290f2">thank you for visiting!</font>
 	<figure><img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure>
-<small><font color="#154796">zoe.downey@gmail.com</font></small></center>
+<small><font color="#22519c">zoe.downey@gmail.com</font></small></center>
 <br>
             <p class="meta">
             <center><small><font color="#a9c9fc">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
