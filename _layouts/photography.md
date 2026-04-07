@@ -28,6 +28,7 @@
 		<br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
 		<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></small></h1>
 	<br>
+	<br>
                 {{ content }}
             </article>
         </main>
