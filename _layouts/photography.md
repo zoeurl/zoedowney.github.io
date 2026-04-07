@@ -34,6 +34,8 @@
         </main>
 
 <footer>
+	<center><figure>
+    <img src="/assets/favicon/zoe-avatar.png" width="300" height="300"></figure></center>
             <p class="meta">
             <center><font color="#f187ff">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></center>
