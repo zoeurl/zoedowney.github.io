@@ -28,7 +28,6 @@
 <br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
 <br><font color="#fc6f23">zoë downey</font></h1></small>
 	<br>
-	<br>
                 {{ content }}
             </article>
         </main>
