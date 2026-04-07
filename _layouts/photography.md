@@ -26,7 +26,7 @@
     <img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
 	<h1 class="post-headline"><small><font color="#fc6f23">zoë downey</font>
 		<br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-		<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></small></h1>
+		<br><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></small></h1>
 	<br>
                 {{ content }}
             </article>
