@@ -34,9 +34,9 @@
         </main>
 
 <footer>
-	<center><font color="#5290f2">thank you for visiting!</font>
-	<figure><img src="/assets/favicon/rabbit-doodle.jpeg" width="100" height="100"></figure>
-<small><font color="#335c9c">zoe.downey@gmail.com</font></small></center>
+	<center><figure><img src="/assets/favicon/rabbit-doodle.jpeg" width="150" height="150"></figure>
+		<font color="#5290f2">thank you for visiting!</font>
+<br><small><font color="#335c9c">zoe.downey@gmail.com</font></small></center>
 <br>
             <p class="meta">
             <center><small><font color="#9ec3ff">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
