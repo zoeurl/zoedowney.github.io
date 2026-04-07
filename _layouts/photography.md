@@ -24,9 +24,9 @@
 	<br>
 	<center><figure>
     <img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure></center>
-	<h1 class="post-headline"><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+	<small><h1 class="post-headline"><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 <br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-<br><small><font color="#fc6f23">zoë downey</font></h1></small>
+<br><font color="#fc6f23">zoë downey</font></h1></small>
 	<br>
 	<br>
                 {{ content }}
