@@ -34,7 +34,7 @@
         </main>
 
 <footer>
-	<center><font color="#aee665">thank you for visiting!</font>
+	<center><font color="#0f854a">thank you for visiting!</font>
 	<figure>
     <img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure></center>
             <p class="meta">
