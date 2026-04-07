@@ -33,10 +33,12 @@
         </main>
 
 <footer>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
+	<center><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
+		<br>
+	<figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
 		<font color="#b65beb">thank you for visiting!</font>
 <br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
-<br><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
+<br>
             <p class="meta">
             <center><small><font color="#d9a6f7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
