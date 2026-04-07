@@ -36,7 +36,7 @@
 <footer>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="180" height="180"></figure>
 		<font color="#b65beb">thank you for visiting!</font>
-<br><small><font color="#8e5cab">zoe.downey@gmail.com</font></small></center>
+<br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
 <br>
             <p class="meta">
             <center><small><font color="#d9a6f7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
