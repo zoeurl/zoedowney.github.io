@@ -34,7 +34,7 @@
         </main>
 
 <footer>
-	<center><font color="#6891d4">thank you for visiting!</font>
+	<center><font color="#5290f2">thank you for visiting!</font>
 	<figure><img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure>
 <small><font color="#78acff">zoe.downey@gmail.com</font></small></center>
 <br>
