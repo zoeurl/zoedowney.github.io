@@ -27,6 +27,7 @@
 		<center><figure><img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
 	<small><a href="https://www.flickr.com/photos/zoedowney">portfolio</a></small></h1>
 	<br>
+	<br>
                 {{ content }}
             </article>
         </main>
