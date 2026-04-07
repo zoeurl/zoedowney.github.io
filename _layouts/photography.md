@@ -38,7 +38,6 @@
 <br>
             <p class="meta">
             <center><small><font color="#d850eb">zoe.downey@gmail.com</font>
-				<br>
 				<br><font color="#f187ff">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
