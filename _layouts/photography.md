@@ -23,10 +23,10 @@
 <article>
 	<br>
 	<h1 class="post-headline">
-	<center><small><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></center>
-	<font color="#ce95f0">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#a645de">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></small></h1>
+	<center><small><font color="#ce95f0">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#a645de">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></small></center>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
+	<a href="https://www.flickr.com/photos/zoedowney">portfolio</a></h1>
 	<br>
 	<br>
                 {{ content }}
