@@ -39,7 +39,7 @@
             <p class="meta">
             <center><small><font color="#f187ff">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.
-				<br>zoe.downey@gmail.com</font></small></center>
+				<br><zoe.downey@gmail.com></font></small></center>
             </p>
         </footer>
 
