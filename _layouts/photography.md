@@ -34,7 +34,8 @@
         </main>
 
 <footer>
-	<center><figure>
+	<center><font color="#aee665">thank you for visiting!</font>
+	<figure>
     <img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure></center>
             <p class="meta">
             <center><font color="#f187ff">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
