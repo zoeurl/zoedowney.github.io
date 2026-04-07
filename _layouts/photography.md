@@ -22,7 +22,6 @@
  <main>
 <article>
 	<br>
-	<br>
 	<center><figure>
     <img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
 					<br><h1 class="post-headline"><font color="#f55353">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
