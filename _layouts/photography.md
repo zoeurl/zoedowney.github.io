@@ -34,7 +34,9 @@
 
 <footer>
 	<center><a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-		<br><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
+		<br>
+		<br>
+		<figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
 		<font color="#b65beb">thank you for visiting!</font>
 <br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
 <br>
