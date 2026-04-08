@@ -31,9 +31,9 @@
         </main>
 
 <footer>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="130" height="130"></figure>
+	<center><small><figure><img src="/assets/favicon/rabbit-doodle.png" width="130" height="130"></figure>
 		<font color="#b65beb">thank you for visiting!</font>
-<br><small><font color="#b65beb">zoe.downey@gmail.com</font></small></center>
+<br><font color="#b65beb">zoe.downey@gmail.com</font></small></center>
 	<br>
             <p class="meta">
             <center><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
