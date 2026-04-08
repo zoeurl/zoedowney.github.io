@@ -32,9 +32,9 @@
 
 <footer>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="130" height="130"></figure>
-		<font color="#b65beb">thank you for visiting!</font>
+		<font color="#b65beb">thank you for visiting!
 		<br><small>zoë downey is a photographer and writer based in south east england.
-<br><font color="#b65beb">zoe.downey@gmail.com</font></small></center>
+		<br>zoe.downey@gmail.com</font></small></center>
 	<br>
             <p class="meta">
             <center><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
