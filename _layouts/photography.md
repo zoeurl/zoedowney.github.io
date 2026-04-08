@@ -38,9 +38,9 @@
 			<br>based in south east england.</font></small>
 			<br>
 		<br>zoe.downey@gmail.com</font></center>
-	<br>
+			<br>
             <p class="meta">
-            <center><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
