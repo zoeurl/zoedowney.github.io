@@ -24,7 +24,7 @@
 	<br>
 	<center><small><h1 class="post-headline"><font color="#ce95f0">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#a645de">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure></small></center>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure></center>
 	<br>
                 {{ content }}
             </article>
@@ -36,7 +36,7 @@
 <br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
 	<br>
             <p class="meta">
-            <center><small><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
