@@ -31,7 +31,7 @@
         </main>
 
 <footer>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="100" height="100"></figure>
+	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="120" height="120"></figure>
 		<font color="#b65beb">thank you for visiting!</font>
 <br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
 	<br>
