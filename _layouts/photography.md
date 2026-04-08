@@ -31,7 +31,7 @@
         </main>
 
 <footer>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="130" height="130"></figure>
+	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
 		<font color="#b65beb">thank you for visiting!
 			<br>
 		<br><small><font color="#b67ed6">zoë downey is a photographer and writer 
