@@ -37,9 +37,6 @@
 <br><small><font color="#591a7d">zoe.downey@gmail.com</font></small></center>
 	<br>
 	<br>
-<a href="https://www.flickr.com/photos/zoedowney">portfolio</a>
-	<br>
-	<br>
             <p class="meta">
             <center><small><font color="#d59cf7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
