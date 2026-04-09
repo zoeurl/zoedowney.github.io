@@ -24,7 +24,7 @@
 	<br>
 	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></center>
 	<br>
                 {{ content }}
             </article>
