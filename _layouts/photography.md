@@ -37,6 +37,7 @@
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
+		<br>
 			<br><font color="#c956d1">zoë downey is a photographer and writer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
