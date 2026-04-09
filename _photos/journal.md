@@ -2,10 +2,11 @@
 layout: photography
 category: photography
 title: journal
-primary: https://farm66.staticflickr.com/65535/55168170088_ecda2ff92b_b.jpg
+primary: https://farm66.staticflickr.com/65535/55167871194_4dde6eda10_b.jpg
 ---
 
 <div class="gallery">
+  <img src="https://farm66.staticflickr.com/65535/55197354041_ed8e8229af_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55196464097_14266b565a_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55167871194_4dde6eda10_b.jpg">
   <img src="https://farm66.staticflickr.com/65535/55168170088_ecda2ff92b_b.jpg">
