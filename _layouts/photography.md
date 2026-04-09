@@ -35,13 +35,13 @@
 			<font color=#e647e0>thank you for visiting!</font>
 			<br><font color="#e647e0">zoe.downey@gmail.com</font>
 		<br>
-		<br><font color="#e6a8e3">zoë is a photographer and writer
+		<br><font color="#f274ee">zoë is a photographer and writer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
 			<br>
             <p class="meta">
-            <center><small><font color="#fca7fa">illustrations by zoë downey.</font>
+            <center><small><font color="#f274ee">illustrations by zoë downey.</font>
 				<br>
 				<br><font color="#f2b8f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
