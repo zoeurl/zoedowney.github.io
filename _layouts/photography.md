@@ -22,8 +22,8 @@
  <main>
 <article>
 	<br>
-	<center><small><h1 class="post-headline"><font color="#fa6475">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#e62037">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
+	<center><small><h1 class="post-headline"><font color="#b766bd">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#711878">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
 	<br>
                 {{ content }}
@@ -33,17 +33,17 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
-			<font color=#f03c51>thank you for visiting :)
+			<font color=#6a0c70>thank you for visiting :)
 				<br>zoe.downey@gmail.com</font>
 		<br>
-		<br><font color="#fa6475">zoë downey is a photographer
+		<br><font color="#804485">zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
 			<br>
 			<br>
             <p class="meta">
-            <center><small><font color="#fc9db0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
