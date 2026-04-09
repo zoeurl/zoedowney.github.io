@@ -36,6 +36,7 @@
 			<br>
 		<br><font color="#d881f0">zoë downey is a photographer and writer 
 			<br>based in south east england. 
+			<br>
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font>
 			<br>
