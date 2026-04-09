@@ -32,8 +32,8 @@
 
 <footer>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
-			<font color=#e647e0>thank you for visiting!</font>
-			<br><font color="#e647e0">zoe.downey@gmail.com</font>
+			<font color=#b018c7>thank you for visiting!</font>
+			<br>zoe.downey@gmail.com</font>
 		<br>
 		<br><font color="#f274ee">zoë is a photographer and writer
 			<br>based in south east england. 
@@ -41,9 +41,7 @@
 			<br>that inspire digital preservation.</font></small>
 			<br>
             <p class="meta">
-            <center><small>illustrations by zoë downey.</font>
-				<br>
-				<br><font color="#f2b8f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#f2b8f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
