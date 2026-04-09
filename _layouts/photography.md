@@ -32,16 +32,16 @@
 
 <footer>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
-			<font color=#f78820>thank you for visiting!
+			<font color=#ab6d37>thank you for visiting!
 			<br>zoe.downey@gmail.com</font>
 		<br>
-		<br><font color="#f59e4c">zoë downey is a photographer
+		<br><font color="#f2a968">zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
 			<br>
             <p class="meta">
-            <center><small><font color="#fad1aa">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#f7d0ad">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
