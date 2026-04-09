@@ -33,10 +33,11 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="180" height="180"></figure>
-			<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
+			<font color="#c956d1">thank you for visiting :)
+				<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
 		<br>
 		<br>
-			<br><font color="#c956d1">zoë downey is a photographer and writer
+			<br>zoë downey is a photographer and writer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font>
