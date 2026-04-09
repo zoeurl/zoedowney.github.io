@@ -33,10 +33,9 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="180" height="180"></figure>
-			<font color="#7b1582">thank you for visiting :)
+			<font color="#7b1582">thank you for visiting :)</font>
 		<br>
-				<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
-		<br>
+		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 			<br><font color="#c956d1">zoë downey is a photographer and writer
 			<br>based in south east england. 
