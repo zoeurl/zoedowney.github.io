@@ -36,14 +36,15 @@
 			<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
 		<br>
 		<br>
-			<br><font color="#c956d1">zoë downey is a photographer
+			<br><font color="#c956d1">zoë downey is a photographer and writer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font>
 		<br>
 		<br>
             <p class="meta">
-            <center><small><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small>illustrations by zoë downey.
+				<br><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
