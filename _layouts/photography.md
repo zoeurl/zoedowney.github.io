@@ -41,7 +41,7 @@
 			<br>that inspire digital preservation.</font></small>
 			<br>
             <p class="meta">
-            <center><small><font color="#f274ee">illustrations by zoë downey.</font>
+            <center><small>illustrations by zoë downey.</font>
 				<br>
 				<br><font color="#f2b8f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
