@@ -32,7 +32,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
+	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="180" height="180"></figure>
 			<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
 		<br>
 		<br>
