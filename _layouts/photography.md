@@ -40,8 +40,9 @@
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
-			<br>
-			<br>
+		<br>
+		<br>
+		<br>
             <p class="meta">
             <center><small><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
