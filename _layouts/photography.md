@@ -34,11 +34,7 @@
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
 		<font color=#db6bfa>thank you for visiting!
 			<br>
-		<br><font color="#d881f0">zoë downey is a photographer and writer 
-			<br>based in south east england. 
-			<br>
-			<br>she documents everyday ephemera 
-			<br>that inspire digital preservation.</font>
+		<br><font color="#d881f0">zoë downey is a photographer and writer based in south east england. she documents everyday ephemera that inspire digital preservation.</font>
 			<br>
 		<br><font color="#a731eb">zoe.downey@gmail.com</font></small></center>
 			<br>
