@@ -39,9 +39,9 @@
 			<br><font color="#c956d1">zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
-			<br>that inspire digital preservation.</font></small>
+			<br>that inspire digital preservation.</font>
 		<br>
-			<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
+			<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font></small>
 		<br>
 		<br>
             <p class="meta">
