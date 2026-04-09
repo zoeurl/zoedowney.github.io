@@ -24,7 +24,7 @@
 	<br>
 	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#5c1361">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h1>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure></center>
+		<figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure></center>
 	<br>
                 {{ content }}
             </article>
@@ -32,7 +32,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="130" height="130"></figure>
+	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure>
 			<font color=#8e1a96>thank you for visiting :)
 				<br>zoe.downey@gmail.com</font>
 		<br>
