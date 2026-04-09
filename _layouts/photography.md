@@ -36,12 +36,12 @@
 			<font color=#8e1a96>thank you for visiting :)
 		<br>
 		<br>
-			<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
-		<br>
 			<br><font color="#c956d1">zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
+		<br>
+			<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font>
 		<br>
 		<br>
             <p class="meta">
