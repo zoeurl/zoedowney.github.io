@@ -43,8 +43,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><small><font color="#edc0f0">illustrations by zoë downey.
-				<br>copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
