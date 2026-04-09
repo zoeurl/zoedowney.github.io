@@ -40,7 +40,7 @@
 			<br>that inspire digital preservation.</font></small>
 			<br>
             <p class="meta">
-            <center><small><font color="#fa939f">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#fab9c1">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
