@@ -32,7 +32,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="180" height="180"></figure>
+	<center><figure><img src="/assets/favicon/zoeurl-rabbit-doodle.png" width="180" height="180"></figure>
 			<font color="#7b1582">thank you for visiting :)</font>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
