@@ -33,7 +33,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
-			<font color=#6a0c70>thank you for visiting :)
+			<font color=#5c1961>thank you for visiting :)
 				<br>zoe.downey@gmail.com</font>
 		<br>
 		<br><font color="#804485">zoë downey is a photographer
