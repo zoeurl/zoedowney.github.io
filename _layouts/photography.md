@@ -35,7 +35,7 @@
 			<font color=#e673dc>thank you for visiting!
 			<br>zoe.downey@gmail.com</font>
 		<br>
-		<br><font color="#f274ee">zoë is a photographer and writer
+		<br><font color="#f274ee">zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font></small>
