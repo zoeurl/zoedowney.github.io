@@ -33,9 +33,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle.png" width="150" height="150"></figure>
-			<font color=#8e1a96>thank you for visiting
-		<br>
-			<br><font color="#c956d1">zoë downey is a photographer
+			<small><font color=#8e1a96><zoë downey is a photographer
 			<br>based in south east england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire digital preservation.</font>
