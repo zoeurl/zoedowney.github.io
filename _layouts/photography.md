@@ -33,15 +33,15 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoeurl-rabbit-doodle.png" width="180" height="180"></figure>
-			<font color="#7b1582">thank you for visiting :)
-				<br>my <a href="https://www.flickr.com/photos/zoedowney">camera roll</a></font>
+			<font color="#7b1582">thank you for visiting
+				<br>my <a href="https://www.flickr.com/photos/zoedowney">camera roll :)</a></font>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
-			<br><font color="#c956d1">zoë downey is a photographer and writer
+			<br><font color="#c956d1">hello, i'm a small photographer, writer and (sometimes) illustrator
 			<br>based in south east england. 
-			<br>she documents everyday ephemera 
+			<br>i document everyday ephemera 
 			<br>that inspire digital preservation.</font>
 		<br>
 		<br>
