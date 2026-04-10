@@ -40,7 +40,7 @@
 			<br><font color="#c956d1"> zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
-			<br>that inspire artful preservation.</font>
+			<br>that inspire artistic preservation.</font>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
