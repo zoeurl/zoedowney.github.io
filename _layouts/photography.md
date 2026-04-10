@@ -39,8 +39,9 @@
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
-			<br><font color="#c956d1">hello, i'm a small photographer, writer and (sometimes) illustrator
-			<br>based in south east england. 
+			<br><font color="#c956d1">hello,&nbsp;&nbsp;&nbsp;&nbsp;
+			<br>i'm a small photographer, writer and 
+				<br>(sometimes) illustrator based in south east england. 
 			<br>i document everyday ephemera 
 			<br>that inspire digital preservation.</font>
 		<br>
