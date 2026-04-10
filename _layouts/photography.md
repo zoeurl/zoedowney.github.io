@@ -26,6 +26,7 @@
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></h1>
 		<h3><font color="#801877">journal</font></h3></centre>
+		<br>
                 {{ content }}
             </article>
         </main>
