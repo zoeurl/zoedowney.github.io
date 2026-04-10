@@ -34,7 +34,7 @@
 	<br>
 	<center><figure><img src="/assets/favicon/zoeurl-rabbit-doodle.png" width="180" height="180"></figure>
 			<font color="#7b1582">thank you for visiting
-				<br>my <a href="https://www.flickr.com/photos/zoedowney">camera roll</a> :)</font>
+				<br>my camera roll :)</font>
 		<br>
 		<br>
 			<br><font color="#c956d1">hello, 
