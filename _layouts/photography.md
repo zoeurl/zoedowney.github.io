@@ -33,10 +33,10 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="170" height="170"></figure>
-			<font color="#7b1582">thank you for visiting :)</font>
+			<font color="#d883de">thank you for visiting :)</font>
 		<br>
 		<br>
-			<br><font color="#c956d1"> zoë is a photographer, writer and illustrator 
+			<br><font color="#7b1582"> zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
@@ -46,7 +46,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><small><font color="#edc0f0">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><small><font color="#f19ef7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
