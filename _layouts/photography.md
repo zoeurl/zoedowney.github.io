@@ -37,7 +37,7 @@
 				<br>my camera roll :)</font>
 		<br>
 		<br>
-			<br><font color="#c956d1"> i'm a photographer, writer and sometimes illustrator 
+			<br><font color="#c956d1"> i'm a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>i document everyday ephemera 
 			<br>that inspire digital preservation.</font>
