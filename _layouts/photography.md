@@ -38,10 +38,9 @@
 		<br>
 		<br>
 			<br><font color="#c956d1">hello, 
-			<br>i'm a photographer, writer and 
-			<br>sometimes illustrator based in south east england. 
-			<br>i document everyday ephemera that
-			<br>inspire digital preservation.</font>
+			<br>i'm a photographer, writer and sometimes illustrator 
+			<br>based in south east england. i document everyday ephemera 
+			<br>that inspire digital preservation.</font>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
