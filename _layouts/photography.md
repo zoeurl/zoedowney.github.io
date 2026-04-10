@@ -24,8 +24,7 @@
 	<br>
 	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
-		<h3><font color="#9e418b">journal & camera roll</font></h3></centre>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></centre>
 		<br>
                 {{ content }}
             </article>
