@@ -1,7 +1,7 @@
 ---
 layout: photography
 category: photography
-title: journal
+title: camera roll
 primary: https://farm66.staticflickr.com/65535/55167871194_4dde6eda10_b.jpg
 ---
 
