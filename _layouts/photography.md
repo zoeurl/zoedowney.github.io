@@ -43,7 +43,7 @@
 			<br>i document everyday ephemera that
 			<br>inspire digital preservation.</font>
 		<br>
-		<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
+		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
             <p class="meta">
