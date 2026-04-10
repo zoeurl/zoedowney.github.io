@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></h1></center>
 		<br>
@@ -39,7 +39,7 @@
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
-			<br><font color="#c956d1">hello,&nbsp;&nbsp;&nbsp;&nbsp;
+			<br><font color="#c956d1">hello, 
 			<br>i'm a photographer, writer and sometimes illustrator 
 			<br>based in south east england. 
 			<br>i document everyday ephemera 
