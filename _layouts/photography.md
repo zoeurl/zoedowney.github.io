@@ -25,7 +25,7 @@
 	<center><small><h1 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure></h1>
-		<br><h3><font color="#801877">journal & camera roll</font></h3></centre>
+		<h3><font color="#801877">journal</font></h3></centre>
                 {{ content }}
             </article>
         </main>
