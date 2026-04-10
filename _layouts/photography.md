@@ -36,14 +36,14 @@
 			<font color="#7b1582">thank you for visiting
 				<br>my <a href="https://www.flickr.com/photos/zoedowney">camera roll</a> :)</font>
 		<br>
-		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
-		<br>
 		<br>
 			<br><font color="#c956d1">hello, 
 			<br>i'm a photographer, writer and 
 			<br>sometimes illustrator based in south east england. 
 			<br>i document everyday ephemera that
 			<br>inspire digital preservation.</font>
+		<br>
+		<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
             <p class="meta">
