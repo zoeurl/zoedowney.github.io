@@ -38,7 +38,8 @@
 		<br>
 		<br>
 			<br><font color="#c956d1"> i'm a photographer, writer and 
-			<br>sometimes illustrator based in south east england.
+			<br>sometimes illustrator based in 
+			<br>south east england.
 			<br>i document everyday ephemera 
 			<br>that inspire digital preservation.</font>
 		<br>
