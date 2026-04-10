@@ -40,7 +40,7 @@
 		<br>
 		<br>
 			<br><font color="#c956d1">hello,&nbsp;&nbsp;&nbsp;&nbsp;
-			<br>i'm a photographer, writer and (sometimes) illustrator 
+			<br>i'm a photographer, writer and sometimes illustrator 
 			<br>based in south east england. 
 			<br>i document everyday ephemera 
 			<br>that inspire digital preservation.</font>
