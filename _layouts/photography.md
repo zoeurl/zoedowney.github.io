@@ -22,12 +22,12 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font></h2>
-		<br><h3><br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h3>
+	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><h2><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
 		<h4><font color="#c72ce6">thank you for visiting 
 				<br>my camera roll :)</h4></centre>
+			<br><h3><br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h3>
 	<br>
 	<br>
                 {{ content }}
