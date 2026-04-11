@@ -37,7 +37,7 @@
 			<font color="#7b1582">thank you for visiting :)</font>
 		<br>
 		<br>
-			<br><font color="#d883de"> zoë / زوي is a photographer, writer and illustrator 
+			<br><font color="#d883de"> zoë زوي is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
