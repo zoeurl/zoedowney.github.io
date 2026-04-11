@@ -26,9 +26,9 @@
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
 		<h4><font color="#7227e3">thank you for visiting 
-				<br>my camera roll :)
+				<br>my camera roll :)</h4>
 	<br>
-			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h4></centre>
+			<h3><br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h3></centre>
 	<br>
 	<br>
                 {{ content }}
