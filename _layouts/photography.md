@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<center><small></small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
 		<h4><font color="#c72ce6">thank you for visiting 
