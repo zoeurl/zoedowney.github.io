@@ -38,7 +38,6 @@
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<br>
-		<br>
 			<br><font color="#7b1582"> zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
