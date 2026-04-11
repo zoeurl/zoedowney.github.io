@@ -22,9 +22,9 @@
  <main>
 <article>
 	<br>
-	<center><small><h2><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a>
-			<br><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
-	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
+	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+	<br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure></centre>
 	<br>
 	<br>
