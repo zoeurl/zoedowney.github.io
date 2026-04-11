@@ -11,9 +11,7 @@ flickr.photosets.getList(user_id: '137849239@N07').map do |set|
   primary_info = flickr.photos.getInfo(photo_id: set['primary'])
   primary_url = Flickr.url_b(primary_info)
 
-  filename = title.gsub(' ', '-').gsub(/[^a-z0-9]/i, '-').squeeze('-')
-
-  File.open("_photos/" + filename + ".md", "w") do |f|
+  File.open("photos.md", "w") do |f|
     f.puts("---")
     f.puts("layout: photography")
     f.puts("category: photography")

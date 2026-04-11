@@ -8,7 +8,9 @@ Source code is open source, content is copyright zoë downey 2024, All rights re
 
 ### HTML files
 
-**index.html** – The homepage that visitors see when they go to zoedowney.com. It displays the journal photo gallery. This file is automatically updated by the "Refresh photos" GitHub action.
+**index.html** – The homepage that visitors see when they go to zoedowney.com.
+It displays the photo gallery. 
+This file is automatically updated by the "Refresh photos" GitHub action.
 
 ### Style files (CSS)
 
@@ -36,7 +38,7 @@ The site automatically fetches photos from Flickr using a GitHub action. To refr
 This will:
 - Fetch the latest photos from Flickr photosets
 - Update all galleries in `_photos/`
-- Update `index.html` with the journal gallery
+- Update `index.html` with the gallery
 - Commit and push the changes
 
 ## Favicon
