@@ -1,17 +1,17 @@
 require 'fileutils'
 
-# Copy the gallery content to index.html
-gallery_file = 'gallery.md'
+# Copy the photo photos content to index.html
+photos_file = 'photos.md'
 index_file = 'index.html'
 
-if File.exist?(gallery_file)
+if File.exist?(photos_file)
   # Read the index file
-  index_content = File.read(gallery_file)
+  index_content = File.read(photos_file)
 
   # Write it to index.html
   File.write(index_file, index_content)
 
-  puts "Updated index.html with gallery content"
+  puts "Updated index.html with photos content"
 else
-  puts "Warning: #{gallery_file} not found"
+  puts "Warning: #{photos_file} not found"
 end
