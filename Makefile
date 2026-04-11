@@ -12,5 +12,5 @@ init:
 	bundle install
 
 commit-photos:
-	git add _photos index.html
+	git add index.html
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Refreshed photos"; git push origin)
