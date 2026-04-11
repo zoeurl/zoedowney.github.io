@@ -24,7 +24,9 @@
 	<br>
 	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
-		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure></centre>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
+		<h5><font color="#7b1582">thank you for visiting 
+				<br>my camera roll :)</font></h5></centre>
 	<br>
 	<br>
                 {{ content }}
@@ -33,9 +35,8 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
-			<font color="#7b1582">thank you for visiting 
-				<br>my camera roll :)</font>
+	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
+		<a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a>
 		<br>
 		<br>
 			<br><font color="#d883de"> zoë is a photographer, writer and illustrator 
@@ -43,7 +44,6 @@
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
 		<br>
-		<br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
