@@ -3,7 +3,7 @@ photos:
 	bundle exec ruby bin/index.rb
 
 clobber:
-	rm _photos/*
+	rm -f _photos/*
 
 server:
 	bundle exec jekyll serve
