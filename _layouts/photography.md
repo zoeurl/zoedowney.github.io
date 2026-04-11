@@ -28,7 +28,7 @@
 		<h4><font color="#7227e3">thank you for visiting 
 				<br>my camera roll :)
 	<br>
-			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">photography</a></font></h4></centre>
+			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
