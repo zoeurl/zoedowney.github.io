@@ -35,7 +35,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
-			<font color="#7b1582">**thank you for visiting 
+			<font color="#7b1582">thank you for visiting 
 				<br>my camera roll :)</font>
 		<br>
 		<br>
@@ -50,7 +50,7 @@
 		<br>
             <p class="meta">
             <center><small><font color="#f19ef7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
-				<br>all rights reserved.**</font></small></center>
+				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
 
