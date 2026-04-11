@@ -27,7 +27,7 @@
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
 		<h4><font color="#7227e3">thank you for visiting 
 				<br>my camera roll :)
-			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">more photography</a></font></h4></centre>
+			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">photography</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
