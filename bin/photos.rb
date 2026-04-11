@@ -6,26 +6,30 @@ require 'flickr'
 flickr = Flickr.new 
 
 flickr.photosets.getList(user_id: '137849239@N07').map do |set|
-  title = set['title']
+  
+  # the flickr id of the album to display
+  if set['id'] == '72177720326522222'
+    title = set['title']
 
-  primary_info = flickr.photos.getInfo(photo_id: set['primary'])
-  primary_url = Flickr.url_b(primary_info)
+    primary_info = flickr.photos.getInfo(photo_id: set['primary'])
+    primary_url = Flickr.url_b(primary_info)
 
-  File.open("photos.md", "w") do |f|
-    f.puts("---")
-    f.puts("layout: photography")
-    f.puts("category: photography")
-    f.puts("title: " + title)
-    f.puts("primary: " + primary_url)
-    f.puts("---")
-    f.puts("")
-    f.puts('<div class="gallery">')
+    File.open("photos.md", "w") do |f|
+      f.puts("---")
+      f.puts("layout: photography")
+      f.puts("category: photography")
+      f.puts("title: " + title)
+      f.puts("primary: " + primary_url)
+      f.puts("---")
+      f.puts("")
+      f.puts('<div class="gallery">')
 
-    flickr.photosets.getPhotos(photoset_id: set['id']).photo.map do |photo|
-      photo_url = Flickr.url_b(photo)
-      f.puts('  <img src="' + photo_url + '">')
+      flickr.photosets.getPhotos(photoset_id: set['id']).photo.map do |photo|
+        photo_url = Flickr.url_b(photo)
+        f.puts('  <img src="' + photo_url + '">')
+      end
+
+      f.puts("</div>")
     end
-
-    f.puts("</div>")
   end
 end
