@@ -33,7 +33,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/favicon/zoe-favicon.png" width="170" height="170"></figure>
+	<center><figure><img src="/assets/favicon/favicon/zoe-favicon.png" width="150" height="150"></figure>
 			<font color="#7b1582">thank you for visiting 
 				<br>my camera roll :)</font>
 		<br>
