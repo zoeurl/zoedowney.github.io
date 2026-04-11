@@ -27,7 +27,7 @@
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
 		<h4><font color="#c72ce6">thank you for visiting 
 			<br>my camera roll :)</h4></centre>
-		<h3><br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h3></small>
+		<h3><br><a href="https://www.flickr.com/photos/zoedowney/albums/">portfolio</a></font></h3>
 	<br>
 	<br>
                 {{ content }}
@@ -37,10 +37,10 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
-			<br></small><font color="#bb41f0"> zoë is a photographer, writer and illustrator 
+			<br><font color="#bb41f0"> zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
-			<br>that inspire artistic preservation.</font></small>
+			<br>that inspire artistic preservation.</font>
 		<br>
 		<br>
 		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
@@ -48,7 +48,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><small><font color="#f19ef7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#f19ef7">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
