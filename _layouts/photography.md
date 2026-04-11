@@ -25,8 +25,9 @@
 	<center><small><h2 class="post-headline"><font color="#d883de">zoë downey&nbsp;&nbsp;&nbsp;&nbsp</font>
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="180" height="180"></figure>
-		<h5><font color="#d883de">thank you for visiting 
-				<br>my <a href="https://www.flickr.com/photos/zoedowney/albums/">camera roll</a> :)</font></h5></centre>
+		<h4><font color="#d883de">thank you for visiting 
+				<br>my camera roll :)
+			<br>my <a href="https://www.flickr.com/photos/zoedowney/albums/">more photography</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
