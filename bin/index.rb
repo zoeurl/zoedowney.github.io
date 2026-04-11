@@ -1,7 +1,7 @@
 require 'fileutils'
 
 # Copy the journal gallery content to index.html
-journal_file = '_photos/journal.md'
+journal_file = 'index.md'
 index_file = 'index.html'
 
 if File.exist?(journal_file)
