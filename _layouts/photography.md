@@ -44,7 +44,7 @@
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
 		<br>
-		<br><small><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></small>
+		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a>
 		<br>
 		<br>
 		<br>
