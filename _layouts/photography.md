@@ -35,8 +35,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="170" height="170"></figure>
-		<font color="#c72ce6">thank you for visiting 
-			<br>my camera roll :)
+		<font color="#c72ce6">thank you for visiting :)
 			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">my portfolio</a></font>
 		<br>
 		<br>
