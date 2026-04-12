@@ -27,6 +27,7 @@
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<h4><font color="#c72ce6">welcome 
 			<br>to my camera roll :)
+	<br>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums/">my portfolio</a></font></h4></centre>
 	<br>
 	<br>
