@@ -25,7 +25,7 @@
 	<center><small><h2 class="post-headline"><font color="#c8a2c8">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#705670">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
-		<h4><font color="#b0734f">welcome 
+		<h4><font color="#6e3515">welcome 
 			<br>to my camera roll :)
 	<br>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums/">my portfolio</a></font></h4></centre>
@@ -38,7 +38,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="170" height="170"></figure>
-		<font color="#b0734f">thank you for visiting :)</font>
+		<font color="#6e3515">thank you for visiting :)</font>
 		<br>
 		<br>
 			<br><font color="#b0734f">zoë is a photographer, writer and illustrator 
