@@ -23,7 +23,7 @@
 <article>
 	<br>
 	<center><small><h2 class="post-headline"><font color="#b56e41">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#9c6340">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<br><font color="#d1753b">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<h4><font color="#c8a2c8">welcome 
 			<br>to my camera roll :)
