@@ -26,7 +26,7 @@
 	<br><font color="#7b1582">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<h4><font color="#c72ce6">welcome 
-			<br>to my camera roll:)</h4></font></centre>
+			<br>to my camera roll :)</h4></font></centre>
 	<br>
 	<br>
                 {{ content }}
