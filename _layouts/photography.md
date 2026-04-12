@@ -38,7 +38,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="170" height="170"></figure>
-		<font color="#87310c">thank you for visiting :)</font>
+		<font color="#8f658f">thank you for visiting :)</font>
 		<br>
 		<br>
 			<br><font color="#b0734f">zoë is a photographer, writer and illustrator 
