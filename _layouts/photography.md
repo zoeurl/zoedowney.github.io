@@ -22,8 +22,8 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#7b1582">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<center><small><h2 class="post-headline"><font color="#b3681e">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#6b3e10">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<h4><font color="#d883de">welcome 
 			<br>to my camera roll :)
