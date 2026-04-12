@@ -37,7 +37,8 @@
 		<font color="#c72ce6">thank you for visiting 
 			<br>my camera roll :)
 			<br><a href="https://www.flickr.com/photos/zoedowney/albums/">my portfolio</a></font>
-			<br>
+		<br>
+		<br>
 			<br><font color="#bb41f0"> zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
