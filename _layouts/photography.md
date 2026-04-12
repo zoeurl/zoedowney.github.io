@@ -23,7 +23,7 @@
 <article>
 	<br>
 	<center><small><h2 class="post-headline"><font color="#c8a2c8">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#8a441c">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<br><font color="#b0734f">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="180" height="180"></figure>
 		<h4><font color="#b0734f">welcome 
 			<br>to my camera roll :)
@@ -38,10 +38,10 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="170" height="170"></figure>
-		<font color="#c8a2c8">thank you for visiting :)</font>
+		<font color="#b0734f">thank you for visiting :)</font>
 		<br>
 		<br>
-			<br><font color="#a85728">zoë is a photographer, writer and illustrator 
+			<br><font color="#b0734f">zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
