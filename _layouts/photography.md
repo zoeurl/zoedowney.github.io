@@ -37,7 +37,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="150" height="150"></figure>
+	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="160" height="160"></figure>
 		<font color="#cf133b">thank you for visiting :)</font>
 		<br>
 		<br>
