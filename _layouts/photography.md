@@ -38,10 +38,10 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="170" height="170"></figure>
-		<font color="#a85728">thank you for visiting :)
+		<font color="#c8a2c8">thank you for visiting :)</font>
 		<br>
 		<br>
-			<br>zoë is a photographer, writer and illustrator 
+			<br><font color="#a85728">zoë is a photographer, writer and illustrator 
 			<br>based in south east england.
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
