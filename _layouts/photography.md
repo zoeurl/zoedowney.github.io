@@ -38,8 +38,8 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="160" height="160"></figure>
-		<font color="#cf133b">"thank you for stopping by :)
-		<br>for <a href="https://www.flickr.com/photos/zoedowney/collections">my portfolio & projects</a>, please visit <a href="https://www.flickr.com/photos/zoedowney/albums">my flickr</a>"</font>
+		<font color="#cf133b">"thanks for stopping by :)
+		<br>for <a href="https://www.flickr.com/photos/zoedowney/collections">my portfolio</a>, please visit <a href="https://www.flickr.com/photos/zoedowney/albums">my flickr</a>"</font>
 		<br>
 		<br>
 			<br><font color="#2e0303">zoë is a photographer, writer and illustrator 
