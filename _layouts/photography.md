@@ -39,7 +39,7 @@
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="160" height="160"></figure>
 		<font color="#cf133b">thank you for visiting my camera roll :)
-		<br>find my full portfolio on <a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font>
+		<br>find my portfolio on <a href="https://www.flickr.com/people/zoedowney">flickr</a></font>
 		<br>
 		<br>
 			<br><font color="#2e0303">zoë is a photographer, writer and illustrator 
