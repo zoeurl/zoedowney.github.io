@@ -25,8 +25,8 @@
 	<center><small><h2 class="post-headline"><font color="#e69563">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#ab6233">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="150" height="150"></figure>
-		<h4><font color="#c8a2c8">welcome 
-			<br>to <a href="https://www.flickr.com/photos/zoedowney/albums">my portfolio</a> :)</font></h4></centre>
+		<h4><font color="#c8a2c8">welcome :)
+			<br>to <a href="https://www.flickr.com/photos/zoedowney/albums">my portfolio</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
