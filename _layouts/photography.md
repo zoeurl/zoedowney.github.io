@@ -22,12 +22,12 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<center><small><h2 class="post-headline"><font color="#381010">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#2e0303">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="160" height="160"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
-		<br><a href="https://www.flickr.com/people/zoedowney">flickr</a></font></h4></centre>
+		<br><a href="https://www.flickr.com/people/zoedowney">my portfolio</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
