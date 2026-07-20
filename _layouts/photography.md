@@ -28,7 +28,7 @@
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
 		<br><a href="https://www.flickr.com/people/zoedowney">flickr</a>
-				<br><a href="https://www.instagram.com/zoeurl">instagram</a></font><</h4></centre>
+				<br><a href="https://www.instagram.com/zoeurl">instagram</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
