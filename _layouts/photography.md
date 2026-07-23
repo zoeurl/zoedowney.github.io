@@ -27,10 +27,11 @@
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
-		<br>zoe.downey@gmail.com ✉️🎀
 		<br>
 		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
-			<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
+		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
+		<br>
+		<br>zoe.downey@gmail.com ✉️🎀</font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
