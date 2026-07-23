@@ -28,7 +28,8 @@
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
 		<br>
-		<br><a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
+		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
+			<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
