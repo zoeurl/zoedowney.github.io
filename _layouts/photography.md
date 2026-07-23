@@ -22,9 +22,9 @@
  <main>
 <article>
 	<br>
-	<center><small><h3 class="post-headline"><font color="#6e1a1a">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#2b0909">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="100" height="100"></figure>
+	<center><small><h4 class="post-headline"><font color="#6e1a1a">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#2b0909">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="120" height="120"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
 		<br><a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
