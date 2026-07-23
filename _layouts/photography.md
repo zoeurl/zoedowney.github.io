@@ -26,7 +26,7 @@
 	<br><font color="#593131">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
-		<br>
+		<br>zoe.downey@gmail.com ✉️🎀
 		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
 			<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
 	<br>
