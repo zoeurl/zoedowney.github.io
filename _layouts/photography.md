@@ -22,8 +22,8 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#cf133b">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#cf133b">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<center><small><h2 class="post-headline"><font color="#ffccbb">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#ffccbb">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
