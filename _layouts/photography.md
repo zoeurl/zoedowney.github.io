@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#ffccbb">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<center><small><h2 class="post-headline"><font color="#f25576">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#ffccbb">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<h4><font color="#cf133b">thank you for visiting :)
@@ -49,7 +49,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><font color="#cf133b">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#f7c3ce">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
