@@ -33,7 +33,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
-		<h4><font color="#36454F">thank you for visiting :)
+		<h4><font color="#000000">thank you for visiting :)
 		<br>
 		<br>zoe.downey@gmail.com ✉️🎀
 		<br>
