@@ -22,10 +22,10 @@
  <main>
 <article>
 	<br>
-	<center><small><h4 class="post-headline"><font color="#000000">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+	<center><small><h2 class="post-headline"><font color="#000000">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 	<br>
 	<br>
-		<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></h4></font></center>
+		<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></h2></font></center>
 		<br>
                 {{ content }}
             </article>
@@ -36,7 +36,6 @@
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<font color="#000000">thank you for visiting :)
 		<br>
-		<br>zoe.downey@gmail.com
 		<br>
 		<br><font color="#000000">zoë downey is a photographer 
 			<br>and writer based in england. 
