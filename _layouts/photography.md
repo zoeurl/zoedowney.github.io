@@ -33,23 +33,23 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
-		<h4><font color="#cf133b">thank you for visiting :)
+		<h4><font color="#36454F">thank you for visiting :)
 		<br>
 		<br>zoe.downey@gmail.com ✉️🎀
 		<br>
 		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
-		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4>
-	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
-			<font color="#cf133b">zoë downey is a photographer 
+			<font color="#36454F">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
+			<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4>
+	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
 		<br>
 		<br>
 		<br>
 		<br>
             <p class="meta">
-            <center><font color="#f25576">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#36454F">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
