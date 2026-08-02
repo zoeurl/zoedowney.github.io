@@ -37,11 +37,11 @@
 		<br>
 		<br>zoe.downey@gmail.com ✉️🎀
 		<br>
-		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
-			<font color="#36454F">zoë downey is a photographer 
+		<br><font color="#36454F">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
+		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
 			<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4>
 	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
 		<br>
