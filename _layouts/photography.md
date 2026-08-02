@@ -22,32 +22,34 @@
  <main>
 <article>
 	<br>
-	<center><small><h4 class="post-headline"><font color="#000000">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
-	<br>
-	<br>
-		<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font></center>
+	<center><small><h2 class="post-headline"><font color="#f25576">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<br><font color="#f25576">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
+		<h4><font color="#cf133b">thank you for visiting :)
 		<br>
+		<br>zoe.downey@gmail.com ✉️🎀
+		<br>
+		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
+		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
+	<br>
+	<br>
                 {{ content }}
             </article>
         </main>
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
-		<font color="#000000">thank you for visiting :)
-		<br>
-		<br>
-		<br><font color="#000000">zoë downey is a photographer 
+	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
+			<font color="#cf133b">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
-			<br>
-			<br>
-	<figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
+		<br>
+		<br>
 		<br>
 		<br>
             <p class="meta">
-            <center><font color="#000000">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#f25576">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
