@@ -22,10 +22,10 @@
  <main>
 <article>
 	<br>
-	<center><small><h4 class="post-headline"><font color="#000000">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+	<center><small><h4 class="post-headline"><font color="#000000">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
 	<br>
 	<br>
-		<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></h4></font></center>
+		<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font></center>
 		<br>
                 {{ content }}
             </article>
