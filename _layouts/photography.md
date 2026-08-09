@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#030303">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
+	<center><small><h2 class="post-headline"><font color="#c7c5c5">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
 		<h4><font color="#c7c5c5">thank you for visiting :)
@@ -40,7 +40,7 @@
 <footer>
 	<br>
 	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="120" height="120"></figure>
-			<font color="#030303">zoë downey is a photographer 
+			<font color="#c7c5c5">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
