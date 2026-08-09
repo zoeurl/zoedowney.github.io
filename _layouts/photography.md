@@ -22,14 +22,14 @@
  <main>
 <article>
 	<br>
-	<font color="#b3b1b1">zoë downey</font>
+	<h4></h4><font color="#b3b1b1">zoë downey</font>
 	<br?<font color="#c7c5c5">زوي داوني</font>
 		<center><figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure><h4>
 		<small><a href="https://www.instagram.com/zoeurl">instagram</a>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 		<br><a href="mailto:{{site.email}}">email</a>
 		<br>
-		<br>✉️🎀</font></h4></centre>
+		<br>✉️🎀</font></h4>
 	<br>
 	<br>
                 {{ content }}
@@ -45,8 +45,8 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><font color="#c7c5c5">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
-				<br>all rights reserved.</font></small></center>
+            <font color="#c7c5c5">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+				<br>all rights reserved.</font></small>
             </p>
         </footer>
 
