@@ -26,10 +26,7 @@
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="120" height="120"></figure>
 		<h4><font color="#c7c5c5">thank you for visiting :)
 		<br>
-		<br>zoe.downey@gmail.com ✉️🎀
-		<br>
-		<br><a href="https://www.instagram.com/zoeurl">instagram</a>
-		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
+		<br>zoe.downey@gmail.com ✉️🎀&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
