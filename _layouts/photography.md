@@ -27,7 +27,7 @@
 		<a href="https://www.instagram.com/zoeurl">instagram</a>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 		<br><a href="mailto:{{site.email}}">email</a>
-		<br>>✉️🎀</font></h4></centre>
+		<br>✉️🎀</font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
