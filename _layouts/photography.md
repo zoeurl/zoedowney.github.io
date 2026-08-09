@@ -37,8 +37,7 @@
 
 <footer>
 	<br>
-	<center><figure><img src="/assets/favicon/rabbit-doodle-without-username.png" width="100" height="100"></figure>
-			<font color="#b3b1b1">zoë downey is a photographer 
+	<center><font color="#b3b1b1">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
