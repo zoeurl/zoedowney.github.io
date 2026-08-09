@@ -23,7 +23,7 @@
 <article>
 	<br>
 	<center><small><h2 class="post-headline"><font color="#b3b1b1">zoë downey</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">زوي داوني</font></h2>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="120" height="120"></figure>
 		<h4><font color="#c7c5c5">thank you for visiting :)
 		<br>
 		<br>zoe.downey@gmail.com ✉️🎀
