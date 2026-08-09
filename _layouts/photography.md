@@ -25,9 +25,9 @@
 	<h4><font color="#b3b1b1">&nbsp;&nbsp;&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure>
-		<small><a href="https://www.instagram.com/zoeurl">&nbsp;&nbsp;&nbsp;&nbsp;instagram</a>
-		<br><a href="https://www.flickr.com/photos/zoedowney/albums">&nbsp;&nbsp;&nbsp;&nbsp;flickr</a>
-		<br><a href="mailto:{{site.email}}">&nbsp;&nbsp;&nbsp;&nbsp;email</a></font>
+		<small>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
+		<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font>
 	<br>
 	<br>
                 {{ content }}
