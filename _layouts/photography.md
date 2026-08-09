@@ -49,7 +49,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <center><font color="#d6d6d6">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
+            <center><font color="#c7c5c5">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
             </p>
         </footer>
