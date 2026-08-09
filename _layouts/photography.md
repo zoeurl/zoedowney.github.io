@@ -26,7 +26,7 @@
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="120" height="120"></figure><h4>
 		<br><a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 		<br>✉️🎀
-		<br><br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font></h4></centre>
+		<br><a href="mailto:{{site.email}}">zoe.downey@gmail.com</a></font></h4></centre>
 	<br>
 	<br>
                 {{ content }}
