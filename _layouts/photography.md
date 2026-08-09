@@ -22,12 +22,12 @@
  <main>
 <article>
 	<br>
-	<h4><font color="#b3b1b1">zoë downey</font>
-	<br><font color="#c7c5c5">زوي داوني</font>
+	<h6><font color="#b3b1b1">######zoë downey</font>
+	<br><font color="#c7c5c5">زوي داوني</font></h6>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure>
 		<small><a href="https://www.instagram.com/zoeurl">instagram</a>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
-		<br><a href="mailto:{{site.email}}">email</a></font></h4>
+		<br><a href="mailto:{{site.email}}">email</a></font>
 	<br>
 	<br>
                 {{ content }}
