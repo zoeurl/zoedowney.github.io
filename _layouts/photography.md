@@ -22,8 +22,8 @@
  <main>
 <article>
 	<br>
-	<h4></h4><font color="#b3b1b1">zoë downey</font>
-	<br?<font color="#c7c5c5">زوي داوني</font>
+	<h4><font color="#b3b1b1">zoë downey</font>
+	<br><font color="#c7c5c5">زوي داوني</font>
 		<center><figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure><h4>
 		<small><a href="https://www.instagram.com/zoeurl">instagram</a>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
