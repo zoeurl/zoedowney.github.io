@@ -23,9 +23,9 @@
 <article>
 	<br>
 	<center><small><h2 class="post-headline"><font color="#030303">zoë downey&nbsp;&nbsp;&nbsp;&nbsp;</font>
-	<br><font color="#030303">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
+	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
 		<figure><img src="/assets/favicon/zoe-favicon.png" width="140" height="140"></figure>
-		<h4><font color="#030303">thank you for visiting :)
+		<h4><font color="#c7c5c5">thank you for visiting :)
 		<br>
 		<br>zoe.downey@gmail.com ✉️🎀
 		<br>
