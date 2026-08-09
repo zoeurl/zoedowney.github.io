@@ -22,11 +22,12 @@
  <main>
 <article>
 	<br>
-	<center><small><h2 class="post-headline"><font color="#b3b1b1">zoë downey</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">زوي داوني</font></h2>
-		<figure><img src="/assets/favicon/zoe-favicon.png" width="120" height="120"></figure><h4>
+	<center><small><h2 class="post-headline"><font color="#b3b1b1">zoë downey</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">زوي داوني</font></h2>
+		<figure><img src="/assets/favicon/zoe-favicon.png" width="130" height="130"></figure><h4>
 		<a href="https://www.instagram.com/zoeurl">instagram</a>
 		<br><a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 		<br><a href="mailto:{{site.email}}">email</a>
+		<br>
 		<br>✉️🎀</font></h4></centre>
 	<br>
 	<br>
