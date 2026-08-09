@@ -28,8 +28,6 @@
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font>
 	<br>
-	<br>
-	<br>
                 {{ content }}
             </article>
         </main>
@@ -40,7 +38,6 @@
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
-		<br>
 		<br>
             <p class="meta">
             <font color="#c7c5c5">copyright © {{ site.time | date: '%Y' }} 
