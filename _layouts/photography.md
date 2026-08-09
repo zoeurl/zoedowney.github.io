@@ -43,8 +43,6 @@
 			<br>that inspire artistic preservation.</font>
 		<br>
 		<br>
-		<br>
-		<br>
             <p class="meta">
             <center><font color="#c7c5c5">copyright © {{ site.time | date: '%Y' }} <a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></small></center>
