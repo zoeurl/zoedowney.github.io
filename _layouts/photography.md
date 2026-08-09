@@ -35,6 +35,7 @@
 
 <footer>
 	<br>
+	<br>
 	<font color="#b3b1b1">zoë downey is a photographer 
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
