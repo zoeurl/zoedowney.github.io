@@ -23,7 +23,7 @@
 <article>
 	<br>
 	<h4><font color="#969799">&nbsp;&nbsp;zoë downey</font>
-	<br><font color="#b3b1b1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
+	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
 	<br><small>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font>
