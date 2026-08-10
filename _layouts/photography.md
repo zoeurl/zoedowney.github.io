@@ -29,6 +29,7 @@
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font>
 	<br>
 	<br>
+	<br>
                 {{ content }}
             </article>
         </main>
