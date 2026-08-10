@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<h4><font color="#b8b9ba">&nbsp;&nbsp;zoë downey</font>
+	<h4><font color="#969799">&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#b3b1b1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h4>
 	<br><small>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
@@ -36,7 +36,7 @@
 
 <footer>
 	<br>
-	<font color="#b8b9ba">zoë downey</font> <font color="#b3b1b1">is a photographer
+	<font color="#969799">zoë downey</font> <font color="#b3b1b1">is a photographer
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
