@@ -22,11 +22,11 @@
  <main>
 <article>
 	<br>
-	<h3><font color="#b0aeae">&nbsp;&nbsp;&nbsp;&nbsp;zoë downey</font>
-	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
-	<br><small><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font></strong>
+	<h3><font color="#b0aeae">&nbsp;&nbsp;zoë downey</font>
+	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
+	<br><small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.flickr.com/photos/zoedowney/albums">flickr</a>
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">email</a></font>
 	<br>
 	<br>
 	<br>
@@ -36,7 +36,7 @@
 
 <footer>
 	<br>
-	<strong><font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
+	<font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
 			<br>and writer based in england. 
 			<br>she documents everyday ephemera 
 			<br>that inspire artistic preservation.</font>
