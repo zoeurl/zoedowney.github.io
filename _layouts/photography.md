@@ -24,7 +24,7 @@
 	<br>
 	<h3><small><strong><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 	<br><font color="#9e9b9b">&nbsp;&nbsp;zoë downey</font></h3>
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">is a photographer
+	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
