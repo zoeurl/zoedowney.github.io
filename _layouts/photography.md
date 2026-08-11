@@ -24,8 +24,7 @@
 	<br>
 	<h2><small><font color="#b0aeae">&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h2>
-	<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;about
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
+	<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a></font>
 	<br>
 	<br>
