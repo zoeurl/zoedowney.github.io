@@ -44,7 +44,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <font color="#fcc8b1">copyright © {{ site.time | date: '%Y' }} 
+            <font color="#faa884">copyright © {{ site.time | date: '%Y' }} 
 				<br><a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></strong></small>
             </p>
