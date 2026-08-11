@@ -29,7 +29,9 @@
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
 			<br>
+			<br>
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
+			<br>
 			<br>
 			<br>
 			<br>
