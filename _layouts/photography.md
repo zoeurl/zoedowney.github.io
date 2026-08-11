@@ -22,7 +22,7 @@
  <main>
 <article>
 	<br>
-	<h3><small><font color="#b0aeae">&nbsp;&nbsp;zoë downey</font>
+	<h3><small><font color="#9e9b9b">&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
 	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
