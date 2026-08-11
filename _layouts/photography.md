@@ -28,6 +28,7 @@
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a></font>
 	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#d6d2d2">about</font>
+	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
