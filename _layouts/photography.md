@@ -24,14 +24,13 @@
 	<br>
 	<h3><small><font color="#b0aeae">&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
-	<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a></font>
 	<br>
 	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
+			<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a></font>
 			<br>
 			<br>
 			<br>
