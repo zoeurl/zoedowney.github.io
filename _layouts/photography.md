@@ -34,6 +34,7 @@
 			<br>
 			<br>
 			<br>
+			<br>
                 {{ content }}
             </article>
         </main>
