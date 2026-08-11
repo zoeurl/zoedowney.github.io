@@ -21,9 +21,9 @@
 
  <main>
 <article>
-	&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
-	<h3><strong><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
-	<br><small><font color="#9e9b9b">&nbsp;&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
+	<small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
+	<h3><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
+	<br><font color="#9e9b9b">&nbsp;&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
 	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
