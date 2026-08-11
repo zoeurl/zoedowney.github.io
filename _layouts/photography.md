@@ -24,8 +24,8 @@
 	<br><small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
 	<br>
 	<br>
-	<h3><font color="#faa884">&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
-	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#fcc8b1">is a photographer
+	<h3><font color="#fc824c">&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
+	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#faa884">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
@@ -44,7 +44,7 @@
 		<br>
 		<br>
             <p class="meta">
-            <font color="#d6d2d2">copyright © {{ site.time | date: '%Y' }} 
+            <font color="#fcc8b1">copyright © {{ site.time | date: '%Y' }} 
 				<br><a href="/">{{site.author}}</a>
 				<br>all rights reserved.</font></strong></small>
             </p>
