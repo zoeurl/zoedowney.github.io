@@ -24,7 +24,7 @@
 	<br><small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
 	<br>
 	<br>
-	<h2><font color="#fc824c">&nbsp;&nbsp;zoë downey</font></h2>
+	<h2><font color="#fc824c">&nbsp;&nbsp;&nbsp;zoë downey</font></h2>
 	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#faa884">is a photographer and writer 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
