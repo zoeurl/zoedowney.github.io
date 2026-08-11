@@ -22,15 +22,15 @@
  <main>
 <article>
 	<br>
-	<h3><small><font color="#9e9b9b">&nbsp;&nbsp;zoë downey</font>
+	<h3><small><strong><font color="#9e9b9b">&nbsp;&nbsp;zoë downey</font>
 	<br><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font></h3>
 	<br>
-	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#b0aeae">zoë downey</font> <font color="#c7c5c5">is a photographer
+	<br>&nbsp;&nbsp;&nbsp;&nbsp;<font color="#9e9b9b">zoë downey</font> <font color="#c7c5c5">is a photographer
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
 			<br>
-			<br><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
 			<br>
 			<br>
 			<br>
