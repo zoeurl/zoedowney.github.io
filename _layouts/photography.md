@@ -25,8 +25,8 @@
 	<br>
 	<br>
 	<h3><font color="#fc824c">&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
-	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#faa884">is a photographer
-			<br>&nbsp;&nbsp;&nbsp;&nbsp;and writer based in england. 
+	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#faa884">is a photographer and writer 
+			<br>&nbsp;&nbsp;&nbsp;&nbsp;based in england. 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;she documents everyday ephemera 
 			<br>&nbsp;&nbsp;&nbsp;&nbsp;that inspire artistic preservation.</font>
 			<br>
