@@ -21,7 +21,7 @@
 
  <main>
 <article>
-	<small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
+	<br><small><strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{site.email}}">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/zoeurl">instagram</a></font>
 	<h3><font color="#c7c5c5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;زوي داوني</font>
 	<br><font color="#9e9b9b">&nbsp;&nbsp;&nbsp;&nbsp;zoë downey</font></h3>
 	&nbsp;&nbsp;&nbsp;&nbsp;<font color="#c7c5c5">is a photographer
